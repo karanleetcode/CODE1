@@ -1,3 +1,4 @@
+
 import java.util.ArrayList;
 import java.util.Hashtable;
 import java.util.List;
@@ -56,52 +57,86 @@ public class ArrayClass {
         arrayList.add(new Contacts(37,"Amorous","inclined towards and displaying love","","0",""));
         arrayList.add(new Contacts(38,"Analogous","similar or equivalent in some respects","","0",""));
         arrayList.add(new Contacts(39,"Anathema","something or someone that one dislikes","","0",""));
-        arrayList.add(new Contacts(40,"Annals","historical records","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(41,"Anomaly","deviation from the normal or common","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(42,"Anthropologist","a social scientist specializing in the study of humanity","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(43,"Antipathy","a feeling of dislike","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(44,"Antiquated","an extremely old as seeming to belong to an earlier paeriod","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
+        arrayList.add(new Contacts(40,"Annals","historical records","","0",""));
+        arrayList.add(new Contacts(41,"Anomaly","deviation from the normal or common","","0",""));
+        arrayList.add(new Contacts(42,"Anthropologist","a social scientist specializing in the study of humanity","","0",""));
+        arrayList.add(new Contacts(43,"Antipathy","a feeling of dislike","","0",""));
+        arrayList.add(new Contacts(44,"Antiquated","an extremely old as seeming to belong to an earlier paeriod","","0",""));
 
-        arrayList.add(new Contacts(45,"Antithesis","exact opposite","We have internet access at the library.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(46,"Apathy","an absence of emotion or enthusiasm","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(47,"Apostate","not faithful to religious or party","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(48,"Appalled","struck with fear, dread, or consternation","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(49,"Appellation","a name or title","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(50,"Arbiter","someone chosen to judge and decide a disputed issue","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(51,"Arbitrary","based on random choice or personal whim, rather than any reason or system","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(52,"Archaic","so extremely old as seeming to belong to an earlier period","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(53,"Ardent","characterized by intense emotion, passionate","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
+        arrayList.add(new Contacts(45,"Antithesis","exact opposite","true love for the other is the antithesis of the desire to control that person's life.","0","antipode/opposite/contrary/counter/negative/polemical/reverse/contrary"));
+        arrayList.add(new Contacts(46,"Apathy","an absence of emotion or enthusiasm","People have shown suprising apathy towards these important social problems","0","afectlessness/emotionlessness/impassiveness/impassivity/insensiblility/numbness/phlegm/insensiblity"));
+        arrayList.add(new Contacts(47,"Apostate","not faithful to religious or party","An apostate from commuism, he later beacame one of the harshest critics.","0","renegade/triator/recreant/defector/deserter/turncoat/heretic/nonconformist"));
+        arrayList.add(new Contacts(48,"Appalled","struck with fear, dread, or consternation","The thought of war appalls me.","0","shock/fear/shake-up/faze/consternate/amaze/intimate/frighten/dismay"));
+        arrayList.add(new Contacts(49,"Appellation","a name or title","A twisted road that deserved the appellation of Sidewinder Lane","0","name/appellative/cognomen/compellation/title/moniker/denomination/denotation/handle/designation"));
+        arrayList.add(new Contacts(50,"Arbiter","someone chosen to judge and decide a disputed issue","The mayor will act as the final arbiter for the case.","0","judge/refree/umpire/adjudicator/arbitrator/decide/settler/determine/ajudge"));
+        arrayList.add(new Contacts(51,"Arbitrary","based on random choice or personal whim, rather than any reason or system","An arbitrary number has been a","0",""));
+        arrayList.add(new Contacts(52,"Archaic","so extremely old as seeming to belong to an earlier period","","0",""));
+        arrayList.add(new Contacts(53,"Ardent","characterized by intense emotion, passionate","","0",""));
 
-        arrayList.add(new Contacts(54,"Array","an impressive display","We have internet access at the library.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(55,"Artifact","a man made objext taken as a whole","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(56,"Artifice","a deceptive maneuver,especially to avoid capture","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(57,"Artless","simple and natural, without cunning or deceit","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(58,"Ascend","travel up","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(59,"Ascertain","learn or discover with confidence","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(60,"Ascetic","someone who practices self denial as a spiritual discipline","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(61,"Asinine","devoid of intelligence","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(62,"Asperity","harshness of manner","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
+        arrayList.add(new Contacts(54,"Array","an impressive display","She arrayed herself in rich valvets and satins","0","adorn/decorate/bedizen/beautify/comely/fancy-up/garnish/emblaze/bedeck"));
+        arrayList.add(new Contacts(55,"Artifact","a man made objext taken as a whole","An artifact from the colonial period.","0","commodity/offer/brand/offshoot/effect/line/fabrication/aftermath/bby-product/antiquated/old"));
+        arrayList.add(new Contacts(56,"Artifice","a deceptive maneuver,especially to avoid capture","He spole without artifice or pretense.","0","trick/device/dodge/fetch/flimflam/gambit/gimmick/jig/juggle/sleight/strategem"));
+        arrayList.add(new Contacts(57,"Artless","simple and natural, without cunning or deceit","A genine and artless girl.","0","guileless/simple/real/natural/true/sincere/innocent/unpretentious/unaffected/naive/honest"));
+        arrayList.add(new Contacts(58,"Ascend","travel up","They watched their balloons slowly ascend into the sky.","0","arise/aspire/climb/lift/thrust-up/mmount/soar/upturn/upthrust/height"));
+        arrayList.add(new Contacts(59,"Ascertain","learn or discover with confidence","The information can be ascertain by anyone with a computer.","0","discover/catch on/get-on/hear/learn/see/realize/wise-up/find/know/aware-of"));
+        arrayList.add(new Contacts(60,"Ascetic","someone who practices self denial as a spiritual discipline","an ascetic diet of beans and rice.","0","severe/austere/strict/self-denial/serious/coy/discipline/ascetical"));
+        arrayList.add(new Contacts(61,"Asinine","devoid of intelligence","It was asinine to run into the street like that.","0","aburd/foolish/dolt/stupid/balmy/brainless/bubbleheaded/cockeyed/crackpot/crazy"));
+        arrayList.add(new Contacts(62,"Asperity","harshness of manner","Doesn't like the asperity of most experimental music.","0","acerbity/sharpness/acidity/acridity/acridness/acrimonious/harshness/tartness/roughness"));
 
-        arrayList.add(new Contacts(63,"Aspirant","an ambitious young person","We have internet access at the library.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(64,"Assets","a useful or important thing","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(65,"Assiduous","marked by care and persistent effort","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(66,"Astute","marked by practical hardheaded intelligence","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(67,"Atrophy","gradually decline in effectiveness","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(68,"Attenuated","reduced in strength","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(69,"Attest","provide evidence for","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(70,"Atypical","not representative of a group,class or type","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(71,"Audacity","aggressive boldness or unmitigated effrontery","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
+        arrayList.add(new Contacts(63,"Aspirant","an ambitious young person","a bevy of ever smiling aspirants for the Miss America title.","0","applicant/applier/candidate/campaigner/contender/expectant/seeker/prospect/hopeful"));
+        arrayList.add(new Contacts(64,"Assets","a useful or important thing","The state's natural assets include mountains and beautiful lakes.","0","agent/spy/emissary/intelligencer/mole/operative/spook/undercover/ambush"));
+        arrayList.add(new Contacts(65,"Assiduous","marked by care and persistent effort","The project required some assiduous planning.","0","active/busy/bustling/diligent/laborious/occupied/sedulous/tied-up/working/employed"));
+        arrayList.add(new Contacts(66,"Astute","marked by practical hardheaded intelligence","He is an astute observer of the current political scene.","0","shrewd/canny/clear-eyed/hard-boiled/sharp/savvy/witted/smart/perceptive/knowing"));
+        arrayList.add(new Contacts(67,"Atrophy","gradually decline in effectiveness","The doctor is concerned about the possible atrophy of the shoulder musceles.","0","decay/break/waste/disintegration/diminution/degeneracy/decline/downfall/downgrade"));
+        arrayList.add(new Contacts(68,"Attenuated","reduced in strength","Earplugs will attenuate the loud sounds of the machinery.","0","depricate/break/lessen/mark-down/sink/devalue/devaluate/depress/cheapen"));
+        arrayList.add(new Contacts(69,"Attest","provide evidence for","I can attest that what he has said is true.","0","certify/authenticate/avouch/testify/witness/safeguard/declare/witness/seal/aver"));
+        arrayList.add(new Contacts(70,"Atypical","not representative of a group,class or type","The postal service delivered the package with atypical speed.","0","aberrant/abnormal/exceeding/extraordinary/unique/unwonted/unusual/freak/peculiar/odd"));
+        arrayList.add(new Contacts(71,"Audacity","aggressive boldness or unmitigated effrontery","The student had the audacity to speak rudely in front of the teachers.","0","boldness/effrontery/brashness/brass/brazeness/cheel/cheekiness/chutzpah/sauciness/temerity"));
 
-        arrayList.add(new Contacts(72,"Augment","to increase ","We have internet access at the library.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(73,"Austere","of a strict or stern bearing or demeanor","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(74,"Automaton","a mechanism that can move independently of external control","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(75,"Avarice","reprehensible acquisitiveness; insatiable desire for wealth","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(76,"Aver","to declare or affirm solemnly and formally true","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(77,"Aversion","a feeling or dislike","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(78,"Avid","marked by active intense and enthusiasm","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
-        arrayList.add(new Contacts(79,"Awesome","inspiring wonder or admiration","That was a totally absurd way he reacted in front of the teachers.","0","crazy/illogical/stupid/silly/dolt/senseless/gagged up/wacky/inane/incongruous/nutty/irrational"));
+        arrayList.add(new Contacts(72,"Augment","to increase ","The sale of the product augmented this year.","0","increase/add/accelerate/amplify/aggrandize/compound/supersize/stoke/swell/escalate/boost"));
+        arrayList.add(new Contacts(73,"Austere","of a strict or stern bearing or demeanor","Thet choose austere furniture for the office.","0","servere/strict/tough/stern/rigorous/harsh/ramrod/rigid/hard/flinty/authoritarian"));
+        arrayList.add(new Contacts(74,"Automaton","a mechanism that can move independently of external control","The machine in the factory are fully automatic.","0","engine/apparatus/implement/contrivance/robot/widget/motor/automaton/automatic/independent"));
+        arrayList.add(new Contacts(75,"Avarice","reprehensible acquisitiveness; insatiable desire for wealth","He was driven by avarice.","0","greed/avidness/rapaciousness/rapacity/avidity/cupidity/merecenariness/greediness"));
+        arrayList.add(new Contacts(76,"Aver","to declare or affirm solemnly and formally true","He averred that he was innocent.","0","affirm/allege/assert/claim/profess/protest/purport/warrant/content/avow/contend"));
+        arrayList.add(new Contacts(77,"Aversion","a feeling or dislike","The regarded war with aversion.","0","disgust/dislike/horror/replusion/nausea/loathing/repugnance/revulsion/distaste"));
+        arrayList.add(new Contacts(78,"Avid","marked by active intense and enthusiasm","He is an avid admirer of horror movies.","0","eager/acquisitive/avaricious/greedy/mercenary/covetous/grabby/grasping/mercenary"));
+        arrayList.add(new Contacts(79,"Awesome","inspiring wonder or admiration","The awesome site of an erupting volcano.","0","terrific/extraordinary/amazing/astinishing/astoundong/marvelous/awful/prodigious/wondrous"));
 
+        
+        // B
+        arrayList.add(new Contacts(72,"Badger","to bother repeatedly,bother","She finally badgered me into cutting my hair.","0","annoy/bullly/tease/goad/harass/heckle/torment/hound/ride/needle/importune"));
+        arrayList.add(new Contacts(73,"Balk","to stop",".the extravagant centerpiece proved to be a balk to the flow of the conversation.","0","bar/block/holdback/manacle/trammel/hurdle/impediment/deterrent/cramp/clog/chain/hindrance"));
+        arrayList.add(new Contacts(74,"Banal","repeated too often, common place","He made some banal remarks about the weather.","0","wishy-washy/flat/inspid/watery/milk-and-water/namby-pamby/trite/insipid"));
+        arrayList.add(new Contacts(75,"Bane","something causing misery or pain","National frontier have been a bane than a boon for mankind.","0","killer/poison/destroyer/destruction/curse/woe/opponent/death/omen/die"));
+        arrayList.add(new Contacts(76,"Barometer","an instrument that measures atmospheric pressure.","The barmeter guided the ship under the great storm.","0","weatherglass/pressure-indicator/storm gauge/weather gauge/instrument/direction-detector/ship navigator"));
+        arrayList.add(new Contacts(77,"Bedlam","a state of extreme confusion and disorder","The park had never had so many visitors at one time. It was total bedlam.","0","asylum/madhouse/institution"));
+        arrayList.add(new Contacts(78,"Begrudge","be envious of","","0",""));
+        arrayList.add(new Contacts(79,"Belated","after the expected or usual time","","0",""));
+
+        arrayList.add(new Contacts(72,"Belittle","cause to seem less important","","0",""));
+        arrayList.add(new Contacts(73,"Belligerent","charavteristic of an enemy or one eager to fight",".","0",""));
+        arrayList.add(new Contacts(74,"Benevolent","showing or motivated by sympathy and understanding","","0",""));
+        arrayList.add(new Contacts(75,"Bereft","sorrowful through loss or deprivation","","0",""));
+        arrayList.add(new Contacts(76,"Besiege","surround so as to give in","","0",""));
+        arrayList.add(new Contacts(77,"Bias","a partiality preventing objective consideration of an issue","","0",""));
+        arrayList.add(new Contacts(78,"Bigot","a prejudiced person who is intolerant of differing opinions","","0",""));
+        arrayList.add(new Contacts(79,"Bizarre","conspicuously or grossly unconventional or unusual","","0",""));
+        
+        arrayList.add(new Contacts(72,"Blase","nonchalantly unconcerned","","0",""));
+        arrayList.add(new Contacts(73,"Blatant","without any attempt at concealment, compeletely obvious",".","0",""));
+        arrayList.add(new Contacts(75,"Bliss","a state of extreme happiness","","0",""));
+        arrayList.add(new Contacts(76,"Blunt","starightforward; not sharp","","0",""));
+        arrayList.add(new Contacts(77,"Bogue","fradulent, having a misleading appearance","","0",""));
+        arrayList.add(new Contacts(78,"Bona fide","not counterfeit or copied","","0",""));
+        arrayList.add(new Contacts(79,"Brash","offensively bold","","0",""));
+
+        arrayList.add(new Contacts(72,"Brawl","to quarrel noisely,angrily","","0",""));
+        arrayList.add(new Contacts(73,"Bristle","rise up as in fear",".","0",""));
+        arrayList.add(new Contacts(74,"Bulwark","an embarkment built around a spce for defensive purpose","","0",""));
+        arrayList.add(new Contacts(75,"Burgeon","grow and flourish","","0",""));
+        
 /*
+
         arrayList.add(new Contacts(9,"Access","to lessen.","To access the system the parameters have to crossed"));
         arrayList.add(new Contacts(10,"Accomodate","to fdfad.","0"));
         arrayList.add(new Contacts(11,"Accomplice","to lessen.","0"));
@@ -118,5 +153,3 @@ public class ArrayClass {
 */
         return arrayList;
     }
-}
-
