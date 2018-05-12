@@ -104,53 +104,205 @@ public class ArrayClass {
 
 
         // B
-        arrayList.add(new Contacts(72,"Badger","to bother repeatedly,bother","She finally badgered me into cutting my hair.","0","annoy/bullly/tease/goad/harass/heckle/torment/hound/ride/needle/importune"));
-        arrayList.add(new Contacts(73,"Balk","to stop",".the extravagant centerpiece proved to be a balk to the flow of the conversation.","0","bar/block/holdback/manacle/trammel/hurdle/impediment/deterrent/cramp/clog/chain/hindrance"));
-        arrayList.add(new Contacts(74,"Banal","repeated too often, common place","He made some banal remarks about the weather.","0","wishy-washy/flat/inspid/watery/milk-and-water/namby-pamby/trite/insipid"));
-        arrayList.add(new Contacts(75,"Bane","something causing misery or pain","National frontier have been a bane than a boon for mankind.","0","killer/poison/destroyer/destruction/curse/woe/opponent/death/omen/die"));
-        arrayList.add(new Contacts(76,"Barometer","an instrument that measures atmospheric pressure.","The barmeter guided the ship under the great storm.","0","weatherglass/pressure-indicator/storm gauge/weather gauge/instrument/direction-detector/ship navigator"));
-        arrayList.add(new Contacts(77,"Bedlam","a state of extreme confusion and disorder","The park had never had so many visitors at one time. It was total bedlam.","0","asylum/madhouse/institution/madman/lunatic/crazy/uproar/insane/freak"));
-        arrayList.add(new Contacts(78,"Begrudge","be envious of","You shouldn't begrudge her success","0","envy/resent/stint/covet/resent/be stingy/be jealous/be reluctant/pinch"));
-        arrayList.add(new Contacts(79,"Belated","after the expected or usual time","She recived belated recognition for her scientific discovery.","0","behind/behindhand/late/delinquent/latish/overdue/tardy/posthumous/aftermath/later/afterwards"));
+        arrayList.add(new Contacts(80,"Badger","to bother repeatedly,bother","She finally badgered me into cutting my hair.","0","annoy/bullly/tease/goad/harass/heckle/torment/hound/ride/needle/importune"));
+        arrayList.add(new Contacts(81,"Balk","to stop",".the extravagant centerpiece proved to be a balk to the flow of the conversation.","0","bar/block/holdback/manacle/trammel/hurdle/impediment/deterrent/cramp/clog/chain/hindrance"));
+        arrayList.add(new Contacts(82,"Banal","repeated too often, common place","He made some banal remarks about the weather.","0","wishy-washy/flat/inspid/watery/milk-and-water/namby-pamby/trite/insipid"));
+        arrayList.add(new Contacts(83,"Bane","something causing misery or pain","National frontier have been a bane than a boon for mankind.","0","killer/poison/destroyer/destruction/curse/woe/opponent/death/omen/die"));
+        arrayList.add(new Contacts(84,"Barometer","an instrument that measures atmospheric pressure.","The barmeter guided the ship under the great storm.","0","weatherglass/pressure-indicator/storm gauge/weather gauge/instrument/direction-detector/ship navigator"));
+        arrayList.add(new Contacts(85,"Bedlam","a state of extreme confusion and disorder","The park had never had so many visitors at one time. It was total bedlam.","0","asylum/madhouse/institution/madman/lunatic/crazy/uproar/insane/freak"));
+        arrayList.add(new Contacts(86,"Begrudge","be envious of","You shouldn't begrudge her success","0","envy/resent/stint/covet/resent/be stingy/be jealous/be reluctant/pinch"));
+        arrayList.add(new Contacts(87,"Belated","after the expected or usual time","She recived belated recognition for her scientific discovery.","0","behind/behindhand/late/delinquent/latish/overdue/tardy/posthumous/aftermath/later/afterwards"));
 
-        arrayList.add(new Contacts(72,"Belittle","cause to seem less important","The critic belittled the author.","0","bad-mouth/decry/despise/deprecate/denigrate/diminish/derogate/dismiss/kiss off/minimize"));
-        arrayList.add(new Contacts(73,"Belligerent","charavteristic of an enemy or one eager to fight","He was drunk and belligerent.","0","agonistic/aggressive/chippy/combative/contentious/bellicose/feisty/mititant/confrontational/truculent/combative"));
-        arrayList.add(new Contacts(74,"Benevolent","showing or motivated by sympathy and understanding","A gidt from a benevolent donor.","0","beneficient/humane/good-hearted/tender/tenderhearted/warmhearted/kindhearted/compassionate"));
-        arrayList.add(new Contacts(75,"Bereft","sorrowful through loss or deprivation","a cheap motel compeletely bereft of all amenities.","0","filled/flush/fraught/full/replete/rife/bereaved/deprived/devoid/make-null"));
-        arrayList.add(new Contacts(76,"Besiege","surround so as to give in","Customers have besieged the company with questions.","0","beleaguer/blockade/invest/leaguer/lay siege to/beset/work over/emcompass/assail/environ/congregate"));
-        arrayList.add(new Contacts(77,"Bias","a partiality preventing objective consideration of an issue","The company was accused of raical bias.","0","favor/partiality/ply/prejudice/partisanship/tendentiousness/nonobjectivity/sidedness"));
-        arrayList.add(new Contacts(78,"Bigot","a prejudiced person who is intolerant of differing opinions","He was labeled a bigot after making some offensive comments.","0","dogmatist/dogmatizer/partisan/sectarian/obstinate/stubborn/rude/intolerant"));
-        arrayList.add(new Contacts(79,"Bizarre","conspicuously or grossly unconventional or unusual","His ways were quite bizarre as compared to other people.","0","different/uncommon/irrelevant/heterodox/orthodox/absurd/wild/unreal"));
+        arrayList.add(new Contacts(88,"Belittle","cause to seem less important","The critic belittled the author.","0","bad-mouth/decry/despise/deprecate/denigrate/diminish/derogate/dismiss/kiss off/minimize"));
+        arrayList.add(new Contacts(89,"Belligerent","charavteristic of an enemy or one eager to fight","He was drunk and belligerent.","0","agonistic/aggressive/chippy/combative/contentious/bellicose/feisty/mititant/confrontational/truculent/combative"));
+        arrayList.add(new Contacts(90,"Benevolent","showing or motivated by sympathy and understanding","A gift from a benevolent donor.","0","beneficient/humane/good-hearted/tender/tenderhearted/warmhearted/kindhearted/compassionate"));
+        arrayList.add(new Contacts(91,"Bereft","sorrowful through loss or deprivation","a cheap motel compeletely bereft of all amenities.","0","filled/flush/fraught/full/replete/rife/bereaved/deprived/devoid/make-null"));
+        arrayList.add(new Contacts(92,"Besiege","surround so as to give in","Customers have besieged the company with questions.","0","beleaguer/blockade/invest/leaguer/lay siege to/beset/work over/emcompass/assail/environ/congregate"));
+        arrayList.add(new Contacts(93,"Bias","a partiality preventing objective consideration of an issue","The company was accused of raical bias.","0","favor/partiality/ply/prejudice/partisanship/tendentiousness/nonobjectivity/sidedness"));
+        arrayList.add(new Contacts(94,"Bigot","a prejudiced person who is intolerant of differing opinions","He was labeled a bigot after making some offensive comments.","0","dogmatist/dogmatizer/partisan/sectarian/obstinate/stubborn/rude/intolerant"));
+        arrayList.add(new Contacts(95,"Bizarre","conspicuously or grossly unconventional or unusual","His ways were quite bizarre as compared to other people.","0","different/uncommon/irrelevant/heterodox/orthodox/absurd/wild/unreal"));
 
-        arrayList.add(new Contacts(72,"Blase","nonchalantly unconcerned","People get blase about their home town.","0","unconcerned/worldly-wise/indifferent/weary/satiated/unexcited/offhand/sofisticated"));
-        arrayList.add(new Contacts(73,"Blatant","without any attempt at concealment, compeletely obvious","a blantant clamor for the impeachment of the scandal-plagued governor.","0","vociderous/onstreperous/yowling/yawping/clamorous/clamant/squawking/caterwauling"));
-        arrayList.add(new Contacts(75,"Bliss","a state of extreme happiness","Relaxing on the porch of our private villa was sheer bliss.","0","above/heaven/empyrean/jerusalem/paradise/sky/Zion/New Jerusalem/kingdom come"));
-        arrayList.add(new Contacts(76,"Blunt","starightforward; not sharp","To be perfectly blunt, I find her annoying.","0","abrupt/bluff/brusque/crusty/curt/snippy/short-spoken/unceremonious/downright"));
-        arrayList.add(new Contacts(77,"Bogus","fradulent, having a misleading appearance","The information about the suspect was quite bogus.","0","false/counterfeit/wrong/twisted/artifial/fake/sham/simulated/synthetic/factitious"));
-        arrayList.add(new Contacts(78,"Bona fide","not counterfeit or copied","She has established her position as a bona fide celebrity.","0","authentic/honest/genuine/real/right/sure-enough/certifiable/true/right"));
-        arrayList.add(new Contacts(79,"Brash","offensively bold","She asks such brash questions","0","arch/audacious/bold/harsh/brazen-faced/insolent/brassy/nervy/impertinent/impudent"));
+        arrayList.add(new Contacts(96,"Blase","nonchalantly unconcerned","People get blase about their home town.","0","unconcerned/worldly-wise/indifferent/weary/satiated/unexcited/offhand/sofisticated"));
+        arrayList.add(new Contacts(97,"Blatant","without any attempt at concealment, compeletely obvious","a blantant clamor for the impeachment of the scandal-plagued governor.","0","vociderous/onstreperous/yowling/yawping/clamorous/clamant/squawking/caterwauling"));
+        arrayList.add(new Contacts(98,"Bliss","a state of extreme happiness","Relaxing on the porch of our private villa was sheer bliss.","0","above/heaven/empyrean/jerusalem/paradise/sky/Zion/New Jerusalem/kingdom come"));
+        arrayList.add(new Contacts(99,"Blunt","starightforward; not sharp","To be perfectly blunt, I find her annoying.","0","abrupt/bluff/brusque/crusty/curt/snippy/short-spoken/unceremonious/downright"));
+        arrayList.add(new Contacts(100,"Bogus","fradulent, having a misleading appearance","The information about the suspect was quite bogus.","0","false/counterfeit/wrong/twisted/artifial/fake/sham/simulated/synthetic/factitious"));
+        arrayList.add(new Contacts(101,"Bona fide","not counterfeit or copied","She has established her position as a bona fide celebrity.","0","authentic/honest/genuine/real/right/sure-enough/certifiable/true/right"));
+        arrayList.add(new Contacts(102,"Brash","offensively bold","She asks such brash questions","0","arch/audacious/bold/harsh/brazen-faced/insolent/brassy/nervy/impertinent/impudent"));
 
-        arrayList.add(new Contacts(72,"Brawl","to quarrel noisely,angrily","Fans were brawling in the streets after the game","0","altercate/argufy/bicker/brabble/argue/controvert/dispute/jar/hassle/fight/spat/squabble"));
-        arrayList.add(new Contacts(73,"Bristle","rise up as in fear","Electricity makes your hair bristtle.","0","bulge/brim/buzz/bustle/pullulate/teem/swarm/abound/crawl/overflow"));
-        arrayList.add(new Contacts(74,"Bulwark","an embarkment built around a spce for defensive purpose","democratic principles that stand as a bulwark against tyranny.","0","defend/cover/fance/fend/secure/guard/shield/ward/safeguard/screen/secure"));
-        arrayList.add(new Contacts(75,"Burgeon","grow and flourish","The market for collectibles has burgeoning now that the water is clean","0","accelerate/accumulate/appreciate/balloon/escalate/proliferate/spread/swell/snowball/climb/enlarge"));
+        arrayList.add(new Contacts(103,"Brawl","to quarrel noisely,angrily","Fans were brawling in the streets after the game","0","altercate/argufy/bicker/brabble/argue/controvert/dispute/jar/hassle/fight/spat/squabble"));
+        arrayList.add(new Contacts(104,"Bristle","rise up as in fear","Electricity makes your hair bristtle.","0","bulge/brim/buzz/bustle/pullulate/teem/swarm/abound/crawl/overflow"));
+        arrayList.add(new Contacts(105,"Bulwark","an embarkment built around a spce for defensive purpose","democratic principles that stand as a bulwark against tyranny.","0","defend/cover/fance/fend/secure/guard/shield/ward/safeguard/screen/secure"));
+        arrayList.add(new Contacts(106,"Burgeon","grow and flourish","The market for collectibles has burgeoning now that the water is clean","0","accelerate/accumulate/appreciate/balloon/escalate/proliferate/spread/swell/snowball/climb/enlarge"));
 
-/*
 
-        arrayList.add(new Contacts(9,"Access","to lessen.","To access the system the parameters have to crossed"));
-        arrayList.add(new Contacts(10,"Accomodate","to fdfad.","0"));
-        arrayList.add(new Contacts(11,"Accomplice","to lessen.","0"));
-        arrayList.add(new Contacts(12,"Accost","to fdfad.","0"));
-        arrayList.add(new Contacts(13,"Acknowledge","to accept.","He acknowledge the fact that he was not u enough to enter the college."));
-        arrayList.add(new Contacts(14,"Acme","to fdfad.","0"));
-        arrayList.add(new Contacts(15,"Acquiesce","to lessen.","0"));
-        arrayList.add(new Contacts(16,"Acrimonious","to fdfad.","0"));
-        arrayList.add(new Contacts(17,"Acute","to lessen.","0"));
-        arrayList.add(new Contacts(18,"Adamant","to fdfad.","0"));
-        arrayList.add(new Contacts(19,"Admonish","to lessen.","0"));
-        arrayList.add(new Contacts(20,"Adroit","to be skillful","0"));
+        //c
+        arrayList.add(new Contacts(88,"Cache","a hidden storage place","a weapons cache used by terrorist","0","hoard/deposit/store/reserve/keep/restore/retain"));
+        arrayList.add(new Contacts(89,"Cacophony","loud confusing sounds","The sounds of barking dog and sirens added to the cacophony on the street","0","abel/blare/noise/recket/rattle/clangor/chatter/discordance"));
+        arrayList.add(new Contacts(90,"Cajole","influencing or urge by gentle urging","she cajoled her in doing her laundry for the week","0","urge/request/blandish/flattery/coax/palaver/wheedle/please"));
+        arrayList.add(new Contacts(91,"Callous","having or showing an insensitive and cruel disregard for others","a selfish and callous man","0","affectless/hard/cold-blooded/compassionless/inhuman/indurate/ironhearted/insensate"));
+        arrayList.add(new Contacts(92,"Callow","immature","a story about a callow youth who learns the value of hard work","0","adolescent/green/immature/puerile/juvenile/unripe/unformed/rudimentary"));
+        arrayList.add(new Contacts(93,"Calumny","a false accusation of an offense","They altered calumny against him","0","aspersing/blackening/calumniation/slander/defamation/libel/defame"));
+        arrayList.add(new Contacts(95,"Candid","openly straightforward and direct without secretiveness","He was quite candid about his past.","0","frank/direct/forthcoming/freehearted/openhearted/outspoken/unguarded/unreserved"));
 
-*/
+        arrayList.add(new Contacts(88,"Candor","the quality of being honest and straightforward","She spoke with candor about racism","0","bluntness/candidness/directness/forthrightness/frankness/honesty/openness/plainness"));
+        arrayList.add(new Contacts(90,"Capitulate","surrender under agreed condition","The country still refuses to capitulate despite its weakening army","0","yield/blink/bow/bulge/quit/give up/concede/give in/acquiesce"));
+        arrayList.add(new Contacts(91,"Capricious","determined by chance or impulse rether than by necessity","Employees who are at the mercy of a capricious manager.","0","fickle/changeable/changeful/flickery/unsteady/variable/volatile/unstable"));
+        arrayList.add(new Contacts(92,"Carnage","the savage or excessive killing of many people","Reporters described the highway accident as a scene of carnage.","0","bloodbath/butchery/massacre/death/holocaust/slaughter/injury/mass killing"));
+        arrayList.add(new Contacts(93,"Castigate","inflict severe punishment on","The author castigated the prime minister as an ineffective leader.","0","baste/berate/bawl out/call down/scold/chew out/lecture/lambaste"));
+        arrayList.add(new Contacts(94,"Catastrophic","extremely painful; bringing physical ro financial ruin","The oil spill was an environment of catastrope","0","apocalypse/calamity/cataclysm/disaster/dabacle/tragedy/fiasco/disaster"));
+        arrayList.add(new Contacts(95,"Caustic","harsh in tone","She wrote a caustic report about the decision.","0","acerb/acerbic/pungent/acidic/sarcastic/biting/barbed/corrosive"));
+
+        arrayList.add(new Contacts(88,"Celerity","a rate that is rapid","a journalist writes his well crafted stories with remarkable celerity.","0","speed/fastness/fleetness/haste/hurry/quickness/rapidity/rapidness/swift"));
+        arrayList.add(new Contacts(89,"Cessation","a stopping","Relapses after the cessation of treatment are common","0","arrest/arrestment/cease/end/check/close/closedown/closure/conclusion"));
+        arrayList.add(new Contacts(90,"Chagrin","string feeling of embarrassment","He decided to get a tattoo, to the chagrin of his parents.","0","dissapointment/failure/vexation/frustation/humiliation/distress of mind"));
+        arrayList.add(new Contacts(91,"Charisma","personal attractiveness that enables you to influence others","The candidate was lacking in charisma","0","allure/animal magnetism/appeal/attractiveness/glamour/magic/oomph/witchery"));
+        arrayList.add(new Contacts(92,"Charlatan","a flamboyant deceiver","the famed faith healer turned out to be a charlatan.","0","impostor/fake/faker/hoaxer/humbug/mountebank/phony/sham"));
+        arrayList.add(new Contacts(93,"Chicanery","the use of tricks to deceive someone","He wasn't above using chicanery to win votes.","0","artifice/chicane/trickery/hanky-panky/wile/legerdemain/jugglery"));
+        arrayList.add(new Contacts(94,"Chimerical","like a grotesque product of the imagination","for the time being, imterplanetary travel remains a chimerical feature of life in this century.","0","imaginary/mythiical/visionary/unreal/pretend/phantom/phantasmal/fictional/fictitious"));
+        arrayList.add(new Contacts(95,"Clandestine","secretive","I took a clandestine peek at the price tag on the diamond necklace","0","behind-the-scenes/covert/secretive/underground/sneaky/furtive/private"));
+
+        arrayList.add(new Contacts(88,"Cliche","a trite or obvious remark","The macho cop of Hollywood movies has become a cliche.","0","banality/bromide/chestnut/commonplace/groaner/homily/platitude/shibboleth/truism"));
+        arrayList.add(new Contacts(89,"Clique","An exclusive group of people","that cliwue even refuses to even talk to outsiders at theor lunch.","0","body/bunch/circle/clan/gang/community/lot"));
+        arrayList.add(new Contacts(90,"Coerce","to cause to do through pressure or necessity","A confession was coerced by the police from the suspect.","0","backjack/force/compel/impel/impress/make/sandbag"));
+        arrayList.add(new Contacts(91,"Cogent","convincing","the result of the DNA finger printing were the most cogent evidence.","0","compelling/conclusive/convincing/effective/satisfying/forceful/strong/telling"));
+        arrayList.add(new Contacts(92,"Cognizant","having or showing knowledge or understanding","He is cognizant of his duties as a father.","0","alive/aware/apprehensive/mindful/sentient/ware/witting"));
+        arrayList.add(new Contacts(93,"Comely","beautiful","a brood of comely children that anu parent would be proud to claim","0","asthetic/beautiful/pretty/handsome/good/cute/attractive/sightly"));
+        arrayList.add(new Contacts(94,"Commodious","roomy","A house with exceptionally commodious closets.","0","ample/capacious/spacious/roomy/abundant/profligate/open-spaced"));
+        arrayList.add(new Contacts(95,"Compassion","a deep awareness of and sympathy for","He felt compassion for the lost child.","0","sympathy/commiseration/feeling/apathy/hearted/soft-hearted/thoughtful"));
+
+        arrayList.add(new Contacts(88,"Compatible","able to exists or perform in harmonious way","two people with compatible personalities","0","agrreable/relevant/similar/matching/congruent/amicable/amiable/harmonious"));
+        arrayList.add(new Contacts(89,"Compensate","make amends","His enthusiasm compensates for his lack of skills.","0","indemnify/recompense/recoup/requite/satisfy/repay/reimburse"));
+        arrayList.add(new Contacts(90,"Complacent","contented to a fault with oneself or one's action","The strong econmy has made people complacent.","0","apathetic/causal/indifferent/not concerened/uncurious/insouciant/insensible"));
+        arrayList.add(new Contacts(91,"Complicity","guilt as a confederate in a crime","He acted with his brothers complicity.","0","collusion/connivance/cosnpiracy/cabal/gang/mob/syndicate/ring"));
+        arrayList.add(new Contacts(92,"Component","one of the individual part","The components of an electric circuit.","0","building block/element/factor/ingredient/member/factor/constituents"));
+        arrayList.add(new Contacts(93,"Compound","make more intense,stronger","The interest is compounded at regular intervals.","0","accelerate/increase/multiply/stoke/enlarge/build up/boost/swell/raise"));
+        arrayList.add(new Contacts(94,"Comprehensive","including everything","the book provides a comprehensive overview of European history.","0","full/complete/cover-all/omnibus/panoramic/thorough/universal"));
+        arrayList.add(new Contacts(95,"Concoct","make something by mixing","She concocted a stew from the left overs.","0","invent/construct/contrive/devise/trumo up/think/make up/maufacture"));
+
+        arrayList.add(new Contacts(88,"Condolence","an expression of sympathy","We wish to express our sincere condolences to your family.","0","pity/sorrow/feeling/sympathy/sadness/grief/showing concern"));
+        arrayList.add(new Contacts(89,"Condone","excuse","He is too quick to condone his friend's faults.","0","blink/excuse/pardon/ignore/disregard/discount/forgive/forgo"));
+        arrayList.add(new Contacts(90,"Conducive","tending to bring about","The noisy environment of the dorm was not very conducive to studying.","0","facilitative/ease/grese/loosen/smooth/relevant/suitable/matching"));
+        arrayList.add(new Contacts(91,"Confidant","someone to whom private matters are told","He is trusted confidant of the president.","0","alter ego/amigo/buddy/chum/comrade/friend/familiar/intimate/mate"));
+        arrayList.add(new Contacts(92,"Conflagration","an very intense and uncontrolled fire","The treaty is the latest attempt to resolve the ten years conflagration.","0","fire/holocaust/inferno/blast/ignite/kindle/detonate/launch/shoot"));
+        arrayList.add(new Contacts(93,"Confront","oppose","They confronted the invaders at the shore.","0","beard/brave/brazen/breast/face/dare/defy/outbrave/outface"));
+        arrayList.add(new Contacts(94,"Congenial","suitable to your needs","The town is a congenial place for raising children.","0","agreeable/blessed/pleasant/darling/delectable/delicious/delightful/delightsome"));
+        arrayList.add(new Contacts(95,"Conjecture","predict","The biography includes conjectures about the authors writings","0","guess/shot/supposition/surmise/summary/terse/predict/shot in the dark"));
+
+        arrayList.add(new Contacts(88,"Conjugal","relating to a relationship between a wife and a husband","newlyweds still in a rapturous state of conjugal happiness","0","marital/connubial/married/nuptial/wedded/matrimonial/marriage/relationship"));
+        arrayList.add(new Contacts(89,"Connoisseur","an expert able to appreciate a field","She is a connoisseur of modern art.","0","dilettante/cognoscente/expert/experienced/adept/admirer/complement"));
+        arrayList.add(new Contacts(90,"Connubial","relating to a relationship between a wife and a husband","","0",""));
+        arrayList.add(new Contacts(91,"Consternation","fear resulting from the awareness of danger","Much to her parents consternation , she had decided to not go to college.","0","amazement/dismay/dissapointment/stupefied/confused/hinderance"));
+        arrayList.add(new Contacts(92,"Construe","make sense of","The way the court construes various words has changed over time.","0","clarify/clear/explain/interpret/simplify/explicate/demystify"));
+        arrayList.add(new Contacts(93,"Consummate","having or revealing supreme mastery","He plays the piano with consummate skills.","0","ace/adpet/master/great/skillful/virtuoso/masterly/proficient"));
+        arrayList.add(new Contacts(94,"Contemptuous","expressing extreme scorn","contemptuous comments about the baseball teams pathetic showings.","0","abhorrent/disdainful/scornful/contempt/criticize/disvalue/dismay/dicourage"));
+        arrayList.add(new Contacts(95,"Contrite","feeling or expressing pain or sorrow","being contrite is not enough to spare you an arrest of you're caught shoplifting" +
+                "","0","apologitic/remorseful/repentant/compunctious/sorry/rueful/regretful/penitent"));
+
+        arrayList.add(new Contacts(88,"Controversial","capable of arousing dissagreement","The decision between the parties turned out to be controversial","0","quarrel/scrap/misunderstanding/strife/dispute/disagreement/discordant/irrelvant"));
+        arrayList.add(new Contacts(89,"Cope","come to terms with","commited their nefarious deeds under the dark cope od rights","0","blanket/cloak/veil/cover-up/curtain/hood/mantle/shroud"));
+        arrayList.add(new Contacts(90,"Copious","large in number or quantity","The storm produced a copious amount of rain.","0","profuse/abundant/plentiful/galore/guhing/lavish/riotous/exuberant"));
+        arrayList.add(new Contacts(91,"Corpulent","fat","a corpulent, elegantly dressed opera singer came out and sang, and we knew it was over","0","blubbery/chubby/fat/fleshy/gross/obese/overweight/rotund/tubby"));
+        arrayList.add(new Contacts(92,"Corroborate","give evidence of","the witnesses corroborated the policeman's testimony.","0","argue/attest/auhenticate/bear out/confirm/substantiate/vindicate/confirm"));
+        arrayList.add(new Contacts(93,"Coterie","an exclusive circle of people with a common purpose","her coterie of fellow musicians","0","body/bunch/circle/clan/clique/community/gang/coven/crowd"));
+        arrayList.add(new Contacts(94,"Countenance","the appearance conveyed by a person","The photograph showed his somber countenance","0","face/tolerate/to confront/cast/look/expression/visage/pretense/demeanor"));
+        arrayList.add(new Contacts(95,"Coup","a sudden and decisive change of government by force","winning that big contract was a real coup.","0","achievement/acquirement/attainment/baby/accomplishment/success/triumph"));
+
+        arrayList.add(new Contacts(88,"Covert","secret","He has taken part in a number of covert military operations.","0","cloistered/secluded/hidden/secret/isolated/remote/retired/sheltered"));
+        arrayList.add(new Contacts(89,"Covet","wish,long or crave for","His religious warns against coveting material goods.","0","ache/desire/crave/hanker/want/wish/thirst/desire/pant/yearn"));
+        arrayList.add(new Contacts(90,"Crave","great desire for","Like many celebrities, he craves attention.","0","urge/desire/plead/coax/request/demand/beg/jone/die"));
+        arrayList.add(new Contacts(91,"Criterion","the ideals in terms of which something can be judged","What were the criteria used for choosing the winner?","0","bar,barometer/benchmark/gold standard/touchstone/metric/yardstick"));
+        arrayList.add(new Contacts(92,"Cryptic","having a hidden meaning","puzzled by the cryptic e-mail message left on his computer.","0","arcane/secretive/deep/mysterious/inscrutable/occult/uncanny/enigmatic"));
+        arrayList.add(new Contacts(94,"Culminate","end","A bitter feud culminated months of tension.","0","cap/climax/ending/crown/aftermath/terminate/termination/sue"));
+        arrayList.add(new Contacts(95,"Culpable","deserving blame","They held her culpable for the accident.","0","blameworthy/guilty/criminal/accomplice/censurable/reprehensible/reproachable"));
+
+        arrayList.add(new Contacts(88,"Cumbersome","burdensome","They process of election was quite cumbersome.","0","awkward/bunglesome/clumsy/clunky/cranky/cumbrous/ungainly/unwieldy/ponderous"));
+        arrayList.add(new Contacts(89,"Cumulative","increasing by successive addition","The success was the cumulative efforts of the team.","0","acretive/accumulative/additive/conglomerative/incremental/cumulate/successive/integrated"));
+        arrayList.add(new Contacts(90,"Cupidity","extremely greedy","The evidence revealed the cupidity of the company's directors.","0","avarice/greed/covetousness/mercenariness/rapacity/rapaciousness/avidity"));
+        arrayList.add(new Contacts(91,"Cursory","hasty and without attention to details","The mayor gave a cursory glance at the report.","0","superficial/hasty/headlong/pell-mell/precipitate/rash/rushed/hurried/haste"));
+        arrayList.add(new Contacts(92,"Curtail","terminate or abbreviate","The new laws are an effort to curtail illegal drug use.","0","abbreviate/abridge/shorten/cut back/elide/syncopate/truncate/dock"));
+        arrayList.add(new Contacts(93,"Cynic","someone who is critical of the motives","He's too much of a cynic to see the benefits of marriage","0","misanthrope/naysayer/pessimist/faultfinder/nagative/carping"));
+        arrayList.add(new Contacts(94,"Dearth","an insufficient quantity or number","there was a dearth of useable firewoods at the camp site.","0","crunch/pinch/paucity/scantiness/want/undersupply/shortage/failure/famine"));
+        arrayList.add(new Contacts(95,"Debacle","the financial debacle that was the stock market crash of 1929.","","0","apocalypse/calamity/cataclysm/catastrophe/disaster/tragedy"));
+//d
+
+        arrayList.add(new Contacts(88,"Debilitate","make weak","The virus debilitatates the body immune system","0","weaken/feeble/devalitize/enervate/enfeeble/etiolate/tire/waste"));
+        arrayList.add(new Contacts(89,"Debris","the remains of something","Everthing was covered with dust and debris.","0","rubbish/broken pieces/chaff/garbage/raffle/litter/dust/gross"));
+        arrayList.add(new Contacts(90,"Decade","a period of 10 years","the smell of decaying rubbish","0","break down/spoil/fall apart/foul/fester/perish/disintegrate"));
+        arrayList.add(new Contacts(91,"Decadence","the state of being degenerate in mental or moral qualities","The book condemns the decadence of modern society.","0","deterioration/decline/declension/declination/degeneracy/degeneration/devolution"));
+        arrayList.add(new Contacts(92,"Decapitate","cut the head off of","a particularly gruesome series of murders in which the victims were decapitated.","0","behead/guillotine/head/headed/beheaded/cut-off"));
+        arrayList.add(new Contacts(93,"Declaim","speak very passionately against something","The actress declaimed her lines with passion.","0","harangue/talk/descant/discourse/expatiate/lecture/orate/speak"));
+        arrayList.add(new Contacts(94,"Decorum","propriety in manner and conduct","Please maintain the decorum of the hall.","0","orderliness/decency/manners/form/propriety/fitness/politeness"));
+        arrayList.add(new Contacts(95,"Decrepit","worn and broken down by hard use","My decrepit car barely starts.","0","worn-out/weak/torn-down/feeble/decayed/dilapidated/run-down"));
+
+        arrayList.add(new Contacts(88,"Deem","keep in mind or convey as a message","The principal will take whatever action she deems appropriate in this case.","0","believe/consider/allow/concieve/imagine/reckon/esteem/feel"));
+        arrayList.add(new Contacts(89,"Degrade","reduce in worth","The quality of the plants is degrading day by day.","0","demote/corrupt/decompose/break/bust/demote/disrate/downgrade/reduce"));
+        arrayList.add(new Contacts(90,"Deleterious","harmful","The chemical is delterious to the environment.","0","harmful/pernicious/damaging/noxious/bad/baleful/ill/hurtful/baneful"));
+        arrayList.add(new Contacts(91,"Delineation","act of representing something or describing seomething","The report clearly delineates the steps that must be taken.","0","define/underline/outline/silhouette/sketch/trace/portray/detail"));
+        arrayList.add(new Contacts(92,"Delude","be dishonest with","We deluded ouselves into thinking that the ice cream wouldn't affect our diet.","0","frustrate/dissapoint/evade/deceive/apocryphal/ludicrous/trick/mislead"));
+        arrayList.add(new Contacts(94,"Delve","turn up, loosen up","He tried to delve inside his memory for clues about what had happened","0","cave/investigate/search/thorough/excavate/search/to dig"));
+        arrayList.add(new Contacts(95,"Demeanor","the way a person behaves","The director of the opera company has a haughty demeanor that can be irritating.","0","actions/address/bearing/comportment/conduct/behavior/deportment/geste"));
+
+        arrayList.add(new Contacts(88,"Demur","politely refuse or take exception to","don't hesitate to demur to the idea if you have any qualms","0","object/except/expostulate/delay/hesitate/protest/remonstrate"));
+        arrayList.add(new Contacts(89,"Denote","have a meaning","Her death denoted the end of the era","0","designate/indiacte/mark/betoken/announce/aver/mean/express/import"));
+        arrayList.add(new Contacts(90,"Deplorable","of very poor quality and conditon","we will not tolerate such deplorable behavior in a house of worship","0","cheap/cruddy/contemptible/despicable/dirty/grubby/lame/lousy"));
+        arrayList.add(new Contacts(91,"Depict","give a description of","The art depicts the history of ancient Europe.","0","show/delineate/describe/draw/image/limn/paint/portray/render"));
+        arrayList.add(new Contacts(92,"Deploy","place troops or weapons in battle formation","The troops were deployed for the battle","0","organize/send/dispatched/open/spread/to extend/ready"));
+        arrayList.add(new Contacts(93,"Deprecate","express strong dissaproval","deprecates TV sitcoms as childish and simpleminded.","0","bad-mouth/belittle/cry/down/decry/disparage/kiss off/play down/denigrate/run down"));
+        arrayList.add(new Contacts(94,"Deride","treat or speak with contempt","My brother derided our efforts, but were forced to eat their words when we won the first place.","0","ridicule/mock/make-fun-of/gibe/laugh/shoot down/skewer"));
+        arrayList.add(new Contacts(88,"Derogatory","expressive of low opinion","fans made a steady stream of derogatory remarks about the players on the visiting team","0","belittling/contemptuous/decrying/degrading/demeaning/denigratory/denigrative"));
+        arrayList.add(new Contacts(89,"Desist","choose not to consume","Despite orders from the police, the protestors would not desist.","0","balk/stop/to end/irrelevant/unprejudiced/not-consumed"));
+        arrayList.add(new Contacts(90,"Desultory","marked by lack of definite plan or regularity or purpose","a desultory search for somehting of interest on TV.","0","aimless/arbitrary/random/scattered/stray/erratic/haphazard"));
+        arrayList.add(new Contacts(91,"Deter","to turn away","Painting the metal will deter rust","0","discourage/dissuade/inhibit/dismay/mitigate-against/terror"));
+        arrayList.add(new Contacts(92,"Detriment","a damage or loss","opponents of casino gambling claim that it is a detriment to society at large.","0","affliction/damage/injury/harm/hurt/noxious/unsalubrous"));
+        arrayList.add(new Contacts(93,"Devout","deeply religious","It is his devout wish to help people in need.","0","serious/earnest/constant/dedicated/devoted/faithful/tre"));
+        arrayList.add(new Contacts(94,"Dexterity","Adroitness in using the hands","The job requires manual dexterity","0","adroitness/adept/skillful/clever/sleight/finesse/legerdemain/trick"));
+        arrayList.add(new Contacts(95,"Diatribe","thunderous verbal attack","The article is a diatribe against mainstream media.","0","invective/abusive/ironic/criticize/contempt/harangue/jeremaid"));
+        arrayList.add(new Contacts(88,"Dilettante","an amateur engaging in an activity without serious intention","You can always tell a true expert from a dilettante.","0","cognoscente/connoisseur/dabbler/superficial-interest/amateur/not serious"));
+        arrayList.add(new Contacts(89,"Diminutive","extremely or unusually small","dik-diks, the diminutive of the antelope family.","0","dwarf/midget/mite/peewee/pygmy/runt/scrub/shrimp"));
+    
+        arrayList.add(new Contacts(90,"Discern","detect with the senses","","0",""));
+        arrayList.add(new Contacts(91,"Disciple","one who believes and helps spread the doctrine of another","","0",""));
+        arrayList.add(new Contacts(92,"Discreet","marked by prudence or modesty and wise self restraint","","0",""));
+        arrayList.add(new Contacts(93,"Disdain","lack of respect accomapanied by a feeling of intense displike","","0",""));
+        arrayList.add(new Contacts(94,"Disgrunted","in a state of sulky dissatisfaction","","0",""));
+        arrayList.add(new Contacts(95,"Disheveled","extremely disorderly","","0",""));
+        arrayList.add(new Contacts(88,"Dismantle","take off or remove","","0",""));
+        arrayList.add(new Contacts(89,"Disparage","express a negative opinion of","","0",""));
+        arrayList.add(new Contacts(90,"Disparate","fundamentally different or distinct in quality","","0",""));
+        arrayList.add(new Contacts(91,"Dispersed","distributed or spread over a considerable extent","","0",""));
+        arrayList.add(new Contacts(92,"Disseminate","cause to become widely known","","0",""));
+        arrayList.add(new Contacts(93,"Dissent","a difference of opinion","","0",""));
+        arrayList.add(new Contacts(94,"Distraught","deeply agitated especially from emotion","","0",""));
+        arrayList.add(new Contacts(95,"Diversity","noticable variety","","0",""));
+        arrayList.add(new Contacts(88,"Divulge","make known to the public information previously kept secret","","0",""));
+        arrayList.add(new Contacts(89,"Docile","easily handed or managed","","0",""));
+        arrayList.add(new Contacts(90,"Doddering","mentally or physicaly infirm with age","","0",""));
+        arrayList.add(new Contacts(91,"Doleful","filled with or evoking sadness","","0",""));
+        arrayList.add(new Contacts(92,"Domicile","housing that someone is living in","","0",""));
+        arrayList.add(new Contacts(93,"Dormant","inactive but capable of becoming active","","0",""));
+        arrayList.add(new Contacts(94,"Dregs","the most worthless part or parts","","0",""));
+        arrayList.add(new Contacts(95,"Drudgerty","hard monotoneous routine work","","0",""));
+        arrayList.add(new Contacts(88,"Dubious","fraught with uncertainity or doubt","","0",""));
+        arrayList.add(new Contacts(89,"Dulcet","sweet sound","","0",""));
+        arrayList.add(new Contacts(90,"Dupe","fool or hoax","","0",""));
+        arrayList.add(new Contacts(91,"Duplicity","acting in bad faith","","0",""));
+        arrayList.add(new Contacts(92,"Duress","compulsory force or threat","","0",""));
+        arrayList.add(new Contacts(93,"Edifice","a structure that has a roof and wall","","0",""));
+        arrayList.add(new Contacts(94,"Efficacy","capacity or power to produce the desired effect","","0",""));
+        arrayList.add(new Contacts(95,"Effigy","a representation of a person","","0",""));
+        /*
+
+* arrayList.add(new Contacts(88,"Candor","","","0",""));
+        arrayList.add(new Contacts(89,"Cant","","","0",""));
+        arrayList.add(new Contacts(90,"Capitulate","","","0",""));
+        arrayList.add(new Contacts(91,"Capricious","","","0",""));
+        arrayList.add(new Contacts(92,"Carnage","","","0",""));
+        arrayList.add(new Contacts(93,"Castigate","","","0",""));
+        arrayList.add(new Contacts(94,"Catastrophic","","","0",""));
+        arrayList.add(new Contacts(95,"Caustic","","","0",""));
+*
+* */
         return arrayList;
     }
 }
