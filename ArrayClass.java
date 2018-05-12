@@ -102,39 +102,39 @@ public class ArrayClass {
         arrayList.add(new Contacts(78,"Avid","marked by active intense and enthusiasm","He is an avid admirer of horror movies.","0","eager/acquisitive/avaricious/greedy/mercenary/covetous/grabby/grasping/mercenary"));
         arrayList.add(new Contacts(79,"Awesome","inspiring wonder or admiration","The awesome site of an erupting volcano.","0","terrific/extraordinary/amazing/astinishing/astoundong/marvelous/awful/prodigious/wondrous"));
 
-        
+
         // B
         arrayList.add(new Contacts(72,"Badger","to bother repeatedly,bother","She finally badgered me into cutting my hair.","0","annoy/bullly/tease/goad/harass/heckle/torment/hound/ride/needle/importune"));
         arrayList.add(new Contacts(73,"Balk","to stop",".the extravagant centerpiece proved to be a balk to the flow of the conversation.","0","bar/block/holdback/manacle/trammel/hurdle/impediment/deterrent/cramp/clog/chain/hindrance"));
         arrayList.add(new Contacts(74,"Banal","repeated too often, common place","He made some banal remarks about the weather.","0","wishy-washy/flat/inspid/watery/milk-and-water/namby-pamby/trite/insipid"));
         arrayList.add(new Contacts(75,"Bane","something causing misery or pain","National frontier have been a bane than a boon for mankind.","0","killer/poison/destroyer/destruction/curse/woe/opponent/death/omen/die"));
         arrayList.add(new Contacts(76,"Barometer","an instrument that measures atmospheric pressure.","The barmeter guided the ship under the great storm.","0","weatherglass/pressure-indicator/storm gauge/weather gauge/instrument/direction-detector/ship navigator"));
-        arrayList.add(new Contacts(77,"Bedlam","a state of extreme confusion and disorder","The park had never had so many visitors at one time. It was total bedlam.","0","asylum/madhouse/institution"));
-        arrayList.add(new Contacts(78,"Begrudge","be envious of","","0",""));
-        arrayList.add(new Contacts(79,"Belated","after the expected or usual time","","0",""));
+        arrayList.add(new Contacts(77,"Bedlam","a state of extreme confusion and disorder","The park had never had so many visitors at one time. It was total bedlam.","0","asylum/madhouse/institution/madman/lunatic/crazy/uproar/insane/freak"));
+        arrayList.add(new Contacts(78,"Begrudge","be envious of","You shouldn't begrudge her success","0","envy/resent/stint/covet/resent/be stingy/be jealous/be reluctant/pinch"));
+        arrayList.add(new Contacts(79,"Belated","after the expected or usual time","She recived belated recognition for her scientific discovery.","0","behind/behindhand/late/delinquent/latish/overdue/tardy/posthumous/aftermath/later/afterwards"));
 
-        arrayList.add(new Contacts(72,"Belittle","cause to seem less important","","0",""));
-        arrayList.add(new Contacts(73,"Belligerent","charavteristic of an enemy or one eager to fight",".","0",""));
-        arrayList.add(new Contacts(74,"Benevolent","showing or motivated by sympathy and understanding","","0",""));
-        arrayList.add(new Contacts(75,"Bereft","sorrowful through loss or deprivation","","0",""));
-        arrayList.add(new Contacts(76,"Besiege","surround so as to give in","","0",""));
-        arrayList.add(new Contacts(77,"Bias","a partiality preventing objective consideration of an issue","","0",""));
-        arrayList.add(new Contacts(78,"Bigot","a prejudiced person who is intolerant of differing opinions","","0",""));
-        arrayList.add(new Contacts(79,"Bizarre","conspicuously or grossly unconventional or unusual","","0",""));
-        
-        arrayList.add(new Contacts(72,"Blase","nonchalantly unconcerned","","0",""));
-        arrayList.add(new Contacts(73,"Blatant","without any attempt at concealment, compeletely obvious",".","0",""));
-        arrayList.add(new Contacts(75,"Bliss","a state of extreme happiness","","0",""));
-        arrayList.add(new Contacts(76,"Blunt","starightforward; not sharp","","0",""));
-        arrayList.add(new Contacts(77,"Bogue","fradulent, having a misleading appearance","","0",""));
-        arrayList.add(new Contacts(78,"Bona fide","not counterfeit or copied","","0",""));
-        arrayList.add(new Contacts(79,"Brash","offensively bold","","0",""));
+        arrayList.add(new Contacts(72,"Belittle","cause to seem less important","The critic belittled the author.","0","bad-mouth/decry/despise/deprecate/denigrate/diminish/derogate/dismiss/kiss off/minimize"));
+        arrayList.add(new Contacts(73,"Belligerent","charavteristic of an enemy or one eager to fight","He was drunk and belligerent.","0","agonistic/aggressive/chippy/combative/contentious/bellicose/feisty/mititant/confrontational/truculent/combative"));
+        arrayList.add(new Contacts(74,"Benevolent","showing or motivated by sympathy and understanding","A gidt from a benevolent donor.","0","beneficient/humane/good-hearted/tender/tenderhearted/warmhearted/kindhearted/compassionate"));
+        arrayList.add(new Contacts(75,"Bereft","sorrowful through loss or deprivation","a cheap motel compeletely bereft of all amenities.","0","filled/flush/fraught/full/replete/rife/bereaved/deprived/devoid/make-null"));
+        arrayList.add(new Contacts(76,"Besiege","surround so as to give in","Customers have besieged the company with questions.","0","beleaguer/blockade/invest/leaguer/lay siege to/beset/work over/emcompass/assail/environ/congregate"));
+        arrayList.add(new Contacts(77,"Bias","a partiality preventing objective consideration of an issue","The company was accused of raical bias.","0","favor/partiality/ply/prejudice/partisanship/tendentiousness/nonobjectivity/sidedness"));
+        arrayList.add(new Contacts(78,"Bigot","a prejudiced person who is intolerant of differing opinions","He was labeled a bigot after making some offensive comments.","0","dogmatist/dogmatizer/partisan/sectarian/obstinate/stubborn/rude/intolerant"));
+        arrayList.add(new Contacts(79,"Bizarre","conspicuously or grossly unconventional or unusual","His ways were quite bizarre as compared to other people.","0","different/uncommon/irrelevant/heterodox/orthodox/absurd/wild/unreal"));
 
-        arrayList.add(new Contacts(72,"Brawl","to quarrel noisely,angrily","","0",""));
-        arrayList.add(new Contacts(73,"Bristle","rise up as in fear",".","0",""));
-        arrayList.add(new Contacts(74,"Bulwark","an embarkment built around a spce for defensive purpose","","0",""));
-        arrayList.add(new Contacts(75,"Burgeon","grow and flourish","","0",""));
-        
+        arrayList.add(new Contacts(72,"Blase","nonchalantly unconcerned","People get blase about their home town.","0","unconcerned/worldly-wise/indifferent/weary/satiated/unexcited/offhand/sofisticated"));
+        arrayList.add(new Contacts(73,"Blatant","without any attempt at concealment, compeletely obvious","a blantant clamor for the impeachment of the scandal-plagued governor.","0","vociderous/onstreperous/yowling/yawping/clamorous/clamant/squawking/caterwauling"));
+        arrayList.add(new Contacts(75,"Bliss","a state of extreme happiness","Relaxing on the porch of our private villa was sheer bliss.","0","above/heaven/empyrean/jerusalem/paradise/sky/Zion/New Jerusalem/kingdom come"));
+        arrayList.add(new Contacts(76,"Blunt","starightforward; not sharp","To be perfectly blunt, I find her annoying.","0","abrupt/bluff/brusque/crusty/curt/snippy/short-spoken/unceremonious/downright"));
+        arrayList.add(new Contacts(77,"Bogus","fradulent, having a misleading appearance","The information about the suspect was quite bogus.","0","false/counterfeit/wrong/twisted/artifial/fake/sham/simulated/synthetic/factitious"));
+        arrayList.add(new Contacts(78,"Bona fide","not counterfeit or copied","She has established her position as a bona fide celebrity.","0","authentic/honest/genuine/real/right/sure-enough/certifiable/true/right"));
+        arrayList.add(new Contacts(79,"Brash","offensively bold","She asks such brash questions","0","arch/audacious/bold/harsh/brazen-faced/insolent/brassy/nervy/impertinent/impudent"));
+
+        arrayList.add(new Contacts(72,"Brawl","to quarrel noisely,angrily","Fans were brawling in the streets after the game","0","altercate/argufy/bicker/brabble/argue/controvert/dispute/jar/hassle/fight/spat/squabble"));
+        arrayList.add(new Contacts(73,"Bristle","rise up as in fear","Electricity makes your hair bristtle.","0","bulge/brim/buzz/bustle/pullulate/teem/swarm/abound/crawl/overflow"));
+        arrayList.add(new Contacts(74,"Bulwark","an embarkment built around a spce for defensive purpose","democratic principles that stand as a bulwark against tyranny.","0","defend/cover/fance/fend/secure/guard/shield/ward/safeguard/screen/secure"));
+        arrayList.add(new Contacts(75,"Burgeon","grow and flourish","The market for collectibles has burgeoning now that the water is clean","0","accelerate/accumulate/appreciate/balloon/escalate/proliferate/spread/swell/snowball/climb/enlarge"));
+
 /*
 
         arrayList.add(new Contacts(9,"Access","to lessen.","To access the system the parameters have to crossed"));
@@ -153,3 +153,4 @@ public class ArrayClass {
 */
         return arrayList;
     }
+}
