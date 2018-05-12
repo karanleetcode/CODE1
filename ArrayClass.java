@@ -226,7 +226,7 @@ public class ArrayClass {
         arrayList.add(new Contacts(95,"Debacle","the financial debacle that was the stock market crash of 1929.","","0","apocalypse/calamity/cataclysm/catastrophe/disaster/tragedy"));
 //d
 
-        arrayList.add(new Contacts(88,"Debilitate","make weak","The virus debilitatates the body immune system","0","weaken/feeble/devalitize/enervate/enfeeble/etiolate/tire/waste"));
+         arrayList.add(new Contacts(88,"Debilitate","make weak","The virus debilitatates the body immune system","0","weaken/feeble/devalitize/enervate/enfeeble/etiolate/tire/waste"));
         arrayList.add(new Contacts(89,"Debris","the remains of something","Everthing was covered with dust and debris.","0","rubbish/broken pieces/chaff/garbage/raffle/litter/dust/gross"));
         arrayList.add(new Contacts(90,"Decade","a period of 10 years","the smell of decaying rubbish","0","break down/spoil/fall apart/foul/fester/perish/disintegrate"));
         arrayList.add(new Contacts(91,"Decadence","the state of being degenerate in mental or moral qualities","The book condemns the decadence of modern society.","0","deterioration/decline/declension/declination/degeneracy/degeneration/devolution"));
@@ -260,37 +260,37 @@ public class ArrayClass {
         arrayList.add(new Contacts(95,"Diatribe","thunderous verbal attack","The article is a diatribe against mainstream media.","0","invective/abusive/ironic/criticize/contempt/harangue/jeremaid"));
         arrayList.add(new Contacts(88,"Dilettante","an amateur engaging in an activity without serious intention","You can always tell a true expert from a dilettante.","0","cognoscente/connoisseur/dabbler/superficial-interest/amateur/not serious"));
         arrayList.add(new Contacts(89,"Diminutive","extremely or unusually small","dik-diks, the diminutive of the antelope family.","0","dwarf/midget/mite/peewee/pygmy/runt/scrub/shrimp"));
-    
-        arrayList.add(new Contacts(90,"Discern","detect with the senses","","0",""));
-        arrayList.add(new Contacts(91,"Disciple","one who believes and helps spread the doctrine of another","","0",""));
-        arrayList.add(new Contacts(92,"Discreet","marked by prudence or modesty and wise self restraint","","0",""));
-        arrayList.add(new Contacts(93,"Disdain","lack of respect accomapanied by a feeling of intense displike","","0",""));
-        arrayList.add(new Contacts(94,"Disgrunted","in a state of sulky dissatisfaction","","0",""));
-        arrayList.add(new Contacts(95,"Disheveled","extremely disorderly","","0",""));
-        arrayList.add(new Contacts(88,"Dismantle","take off or remove","","0",""));
-        arrayList.add(new Contacts(89,"Disparage","express a negative opinion of","","0",""));
-        arrayList.add(new Contacts(90,"Disparate","fundamentally different or distinct in quality","","0",""));
-        arrayList.add(new Contacts(91,"Dispersed","distributed or spread over a considerable extent","","0",""));
-        arrayList.add(new Contacts(92,"Disseminate","cause to become widely known","","0",""));
-        arrayList.add(new Contacts(93,"Dissent","a difference of opinion","","0",""));
-        arrayList.add(new Contacts(94,"Distraught","deeply agitated especially from emotion","","0",""));
-        arrayList.add(new Contacts(95,"Diversity","noticable variety","","0",""));
-        arrayList.add(new Contacts(88,"Divulge","make known to the public information previously kept secret","","0",""));
-        arrayList.add(new Contacts(89,"Docile","easily handed or managed","","0",""));
-        arrayList.add(new Contacts(90,"Doddering","mentally or physicaly infirm with age","","0",""));
-        arrayList.add(new Contacts(91,"Doleful","filled with or evoking sadness","","0",""));
-        arrayList.add(new Contacts(92,"Domicile","housing that someone is living in","","0",""));
-        arrayList.add(new Contacts(93,"Dormant","inactive but capable of becoming active","","0",""));
-        arrayList.add(new Contacts(94,"Dregs","the most worthless part or parts","","0",""));
-        arrayList.add(new Contacts(95,"Drudgerty","hard monotoneous routine work","","0",""));
-        arrayList.add(new Contacts(88,"Dubious","fraught with uncertainity or doubt","","0",""));
-        arrayList.add(new Contacts(89,"Dulcet","sweet sound","","0",""));
-        arrayList.add(new Contacts(90,"Dupe","fool or hoax","","0",""));
-        arrayList.add(new Contacts(91,"Duplicity","acting in bad faith","","0",""));
-        arrayList.add(new Contacts(92,"Duress","compulsory force or threat","","0",""));
-        arrayList.add(new Contacts(93,"Edifice","a structure that has a roof and wall","","0",""));
-        arrayList.add(new Contacts(94,"Efficacy","capacity or power to produce the desired effect","","0",""));
-        arrayList.add(new Contacts(95,"Effigy","a representation of a person","","0",""));
+        arrayList.add(new Contacts(90,"Discern","detect with the senses","The reason behind his sudden change are difficult to discern.","0","behold/catch/perceive/regard/spy/spot/sight/notice"));
+        arrayList.add(new Contacts(91,"Disciple","one who believes and helps spread the doctrine of another","The teacher had a hard time maintaining discipline.","0","rule/governing/self-control/enforcing/precinct/province/walk/terrain"));
+        arrayList.add(new Contacts(92,"Discreet","marked by prudence or modesty and wise self restraint","he was very disreet, only saying what was necessary.","0","terse/judgmatic/judicious/intelligent/prudent/frugal/prudent/discernment"));
+        arrayList.add(new Contacts(93,"Disdain","lack of respect accomapanied by a feeling of intense displike","He regarded their proposal with disdain","0","despite/despitefulness/contempt/scorn/misprision/contemptuousness"));
+        arrayList.add(new Contacts(94,"Disgruntled","in a state of sulky dissatisfaction","a crew disgruntled by the long voyage that provided no opportunity for recreation onshore.","0","alein/alienate/disaffect/estrange/sour/unsatisfied"));
+        arrayList.add(new Contacts(95,"Disheveled","extremely disorderly","decorations for the garden wedding that has been dishevelled by the wind.","0","confuse/derange/disarrange/disturb/jumble/disrupt/muss/muddle"));
+        arrayList.add(new Contacts(88,"Dismantle","take off or remove","He dismantled the parts to examine the problem more closely.","0","break down/demount/disassemble/dismember/dismount/knock down"));
+        arrayList.add(new Contacts(89,"Disparage","express a negative opinion of","It's a mistake to disparage their achievements.","0","decry/degrade/bad-mouth/belittle/deprecate/depreciate/denigrate/derogate"));
+        arrayList.add(new Contacts(90,"Disparate","fundamentally different or distinct in quality","disparate notions among adults and adolescents about when middle age begins","0","distant/different/distinguishable/distinctive/unalike/unlike/distinct"));
+        arrayList.add(new Contacts(91,"Dispersed","distributed or spread over a considerable extent","Police ordered the crowd to disperse.","0","scatter/spread/dissipate/dispersion/disassemble/dissolve"));
+
+        arrayList.add(new Contacts(92,"Disseminate","cause to become widely known","The interet allows us to disseminate information faster.","0","broadcast/circulate/spread/propagate/scatter/disperse/abroad"));
+        arrayList.add(new Contacts(93,"Dissent","a difference of opinion","anyone who dissented was encouraged to speak out while they had the chance","0","differ/disagree/nonconcur/conflict/discordance/disharmony"));
+        arrayList.add(new Contacts(94,"Distraught","deeply agitated especially from emotion","She was distraught over the death of her partner.","0","agitated/delirious/distracted/distrait/frantic/frenzied/hysterical"));
+        arrayList.add(new Contacts(95,"Diversity","noticable variety","The school aims for diversity in its stduent population.","0","assortment/diverseness/variety/heterogeneity/manifoldness/multiplicity/variousness"));
+        arrayList.add(new Contacts(88,"Divulge","make known to the public information previously kept secret","The company will not divulge its sales figure.","0","bare/disclose/discover/reveal/uncloak/uncover/unmask"));
+        arrayList.add(new Contacts(89,"Docile","easily handed or managed","His student will docile and eager to learn.","0","obedient/punctual/tractable/manageable/conformable/abiding"));
+        arrayList.add(new Contacts(90,"Doddering","mentally or physicaly infirm with age","was doddering down the walk outside the nursing home.","0","careen/stagger/lurch/reel/teeter/totter/waddle"));
+        arrayList.add(new Contacts(91,"Doleful","filled with or evoking sadness","The girl had a doleful look on her face","0","aching/agonized/anguished/deploring/bitter/bewailing/plangent"));
+        arrayList.add(new Contacts(92,"Domicile","housing that someone is living in","You will need to report your change of domicile to your insurance company.","0","abode/diggings/home/dwelling/fireside/habitation/hearth"));
+        arrayList.add(new Contacts(93,"Dormant","inactive but capable of becoming active","The seeds will remain dormant until the spring.","0","asleep/dozing/napping/resting/sleeping/slumbering"));
+        arrayList.add(new Contacts(95,"Drudgery","hard monotoneous routine work","He hated the drudgery of his job.","0","donkeywork/drudge/toil/fatigue/grind/labor/moil/slavery"));
+        arrayList.add(new Contacts(88,"Dubious","fraught with uncertainity or doubt","a man of dubious character","0","debatable/disputable/doubtable/doubtful/suspicious/shaky/shady/queer"));
+        arrayList.add(new Contacts(89,"Dulcet","sweet sound","the dulcet tones of her voice.","0","agreeable/darling/blessed/congenial/enjoyable/pleasing/pretty"));
+        arrayList.add(new Contacts(90,"Dupe","fool or hoax","They duped her out of 100 dollars.","0","bamboozle/beguile/bluff/burn/buffalo/fake out/cozen"));
+        arrayList.add(new Contacts(91,"Duplicity","acting in bad faith","He exposed the spy's duplicity.","0","artifice/cheating/cozenage/craft/craftiness/crookedness/crookery"));
+        arrayList.add(new Contacts(92,"Duress","compulsory force or threat","He gave the information under duress.","0","arm-twisting/coercion/compulsion/constraint/force/pressure"));
+        arrayList.add(new Contacts(93,"Edifice","a structure that has a roof and wall","a magnificient edifice with a doomed ceiling.","0","cathedral/hall/palace/room/tower/villa/building"));
+        arrayList.add(new Contacts(94,"Efficacy","capacity or power to produce the desired effect","questioned the efficacy of the alarms in actually preventing auto theft.","0","edge/effectiveness/efficacity/efficency/productiveness/efficaciousness/effectualness"));
+        arrayList.add(new Contacts(95,"Effigy","a representation of a person","the football caoch was turned into effigy.","0","puppet/likeliness/statue/pictures/figure/image/portrait"));
+        
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
