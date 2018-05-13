@@ -291,6 +291,28 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Efficacy","capacity or power to produce the desired effect","questioned the efficacy of the alarms in actually preventing auto theft.","0","edge/effectiveness/efficacity/efficency/productiveness/efficaciousness/effectualness"));
         arrayList.add(new Contacts(95,"Effigy","a representation of a person","the football caoch was turned into effigy.","0","puppet/likeliness/statue/pictures/figure/image/portrait"));
         
+            arrayList.add(new Contacts(88,"Effrontery","audacious behavior that you have no right","the little squirt had the effrontery to deny eating any cookie.","0","audacity/brashness/brasiness/brazeness/cheek/chutzpah/sauce"));
+        arrayList.add(new Contacts(89,"Egregious","conspicuously bad or reprehensible","an egregious example of political bias.","0","blatant/conspicous/flagrant/glaring/gross/patent/striking"));
+        arrayList.add(new Contacts(90,"Elapse","pass by","in those oin operated binoculars at scenic areas your viewing time seems at elapse almost bedore it had begun.","0","break up/break off/close/conclude/cease/end/finish/go"));
+        arrayList.add(new Contacts(91,"Elicit","call forth, as an emotion, feeling or response","My question elicited no response","0","educe/evoke/inspire/raise/call forth/entice"));
+        arrayList.add(new Contacts(92,"Elucidate","make clear and comprehensible","when asked for details, he declined to elucidate further.","0","explain/clarify/clear up/spell out/demystify/demonstrate"));
+        arrayList.add(new Contacts(93,"Elusive","skillful at evading capture","The truth may prove elusive.","0","evasive/fugitive/slippery/incomprehensible/unintelligible/evade"));
+        arrayList.add(new Contacts(94,"Emaciated","very thin specially due to a disease","without adequate medical supplies doctors could only look on helplessly as cholera victims continued to emciate.","0","decay/droop/weak/wither/fade/flag/sag/sink"));
+        arrayList.add(new Contacts(95,"Embellish","to adorn","a book embellished with colorful illustrations","0","adorn/decorate/attractive/color/exaggerate/embroider"));
+        arrayList.add(new Contacts(88,"Eminent","standing above others in quality or position","many eminent surgeons are on the hospital's staff.","0","famous/known/prominent/luminous/outstanding/notable"));
+        arrayList.add(new Contacts(89,"Emissary","someone sent on a mission to represent annother's interest","She acted as the president's personal emmisary.","0","representative/agrnt/relegate/minister/legate/minister/delegate"));
+        arrayList.add(new Contacts(90,"Emit","give off","The brakes emitted a louder squeal.","0","eject/vomit/expel/expire/evolove/irradiate/issue/radiate"));
+        arrayList.add(new Contacts(91,"Emulate","strive to equal or match","She grew up emulating her sports heroes","0","follow/copy/correspond to/equal/add up/emulator"));
+        arrayList.add(new Contacts(92,"Encomium","a formal expression of praise","The encomium bestowed on a teacher at her retirement ceremonies.","0","paean/accolade/citation/eulogium/commendation/eulogy/hymn"));
+        arrayList.add(new Contacts(93,"Encumbrance","an onerous or difficult concern","without the encumbrance of a heavy backpack, I could sprint along the trail.","0","balk/crimp/deterrent/drag/hurdle/handicap/let/manacale"));
+        arrayList.add(new Contacts(94,"Engrossed","giving or marked by complete attention to","a mystery story that will engross readers all the way to the surprise ending.","0","absorb/bemuse/busy/catch/involve/grip/engage"));
+        arrayList.add(new Contacts(95,"Enhance","increase","You can enhance the flavour of the dish by using fresh herbs.","0","updrade/better/ameliorate/amend/enrich/perfect"));
+        arrayList.add(new Contacts(88,"Enigma","in unclear state","one of the great enigmas of our time.","0","mystery/riddle/secret/conundrum/head-scratcher/puzzle"));
+        arrayList.add(new Contacts(89,"Ennui","a lack of spirit","the kind of ennui that comes from having too much time on one's hand","0","blahs/doldrums/boredom/listlessness/restlessness/redium"));
+        arrayList.add(new Contacts(90,"Entourage","the group feeling and attenting to some important person","The president and his entourage.","0","cortege/following/posse/retinue/suite/tail/train"));
+        arrayList.add(new Contacts(91,"Entreaty","earnest or urgent request","I entreat you to help me.","0","request/appeal/beseech/besiege/conjure/beg/impetrate/implore"));
+        arrayList.add(new Contacts(92,"Enuciate","express or state clearly","He set out to enuciate the basic steps of the process","0","announce/proclaim/ariculate/pronounce/make clear/clarify"));
+
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
