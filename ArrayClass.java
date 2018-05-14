@@ -474,6 +474,71 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Iniquity","absence of moral or spiritual values","a nation still struggling with the aftereffects of the iniquity of slavery.","0","corruption/debauchery/depravity/immorality/vice/sin/profligacy"));
         arrayList.add(new Contacts(95,"Initiate","start","The pact was initiated by few people.","0","start/begin/rudimentary/introduce/found/institute"));
        
+        
+        arrayList.add(new Contacts(88,"Innate","present inside","She has an innate sense of rhythm","0","built-in/constitutional/essential/hardwired/inborn/inbred"));
+        arrayList.add(new Contacts(89,"Innocuous","not injurious","They were innocuous pieces of code.","0","harmless/anodyne/benign/hurtless/safe/white"));
+        arrayList.add(new Contacts(90,"Inordinate","beyond normal limits","I waited an inordinate amount of time","0","excessive/abundant/disorderly/immoderate/unregualted/baroque"));
+        arrayList.add(new Contacts(91,"Insatiable","not satisfied","an insatiate avarice that impels him to work incessantly for a fortune that he will never has time to enjoy","0","inappeasable/quenchless/insatiable/unquenchable/unextinguishable/unappeasable"));
+        arrayList.add(new Contacts(92,"Insidious","spreading in a injurious way","High blood pressure is an insidious condition which has few symptoms.","0","subtle/artful/deep/designing/perfidious/stealthy/surreptitious"));
+        arrayList.add(new Contacts(93,"Interject","to insert between other elements","If I may interject , I have things i'd life to add.","0","edge in/inject/add/sandwich/work in/insert/insinuate"));
+        arrayList.add(new Contacts(94,"Interloper","someone who intrudes on the privacy or property of another","I hoped to help my neighbours, nut they regarded me as an interloper.","0","busybody/interferer/intermeddler/nosey/intruder/meddler"));
+        arrayList.add(new Contacts(88,"Internecine","destructive to both sides in a conflict","Internecine war or fighting happens between members of the same group, religion, or country","0","deadly/noxious/destructive/slaughter/disasterous/bitter"));
+        arrayList.add(new Contacts(89,"Interrogate","to question","The police interrogated the suspects.","0","question/investigate/ask/grill/inquire/query/quiz"));
+        arrayList.add(new Contacts(90,"Intimidate","to frighten","The cat was intimidated by the existence of the dog in the house","0","frighten/scare/terrify/affright/alarm/panic/shock"));
+        arrayList.add(new Contacts(91,"Intrepid","Invulnerable to fear","a team of intrepid explorers","0","trepidation/bold/courageous/dauntless/gallant/fearless/greathearted"));
+        arrayList.add(new Contacts(92,"Intrinsic","belonging to a thing by its very nature","Maths is an intrinsic part of the school curriculum.","0","essential/important/built-in/constitutional/inherent/hardwired"));
+        arrayList.add(new Contacts(93,"Introspective","exammining your own sensory and self","She is famous for her introspective songs about failed relationships.","0","self-contemplation/self-examination/self-observation/self-questioning/self-searching/soul-searching"));
+        arrayList.add(new Contacts(94,"Inundate","fill or cover completely","We have been inundated with requests for help","0","deluge/drown/engulf/overwhelm/submerge/submerse"));
+        arrayList.add(new Contacts(95,"Invalidate","make no longer acceptable for use","The proof were invalidate.","0","nullify/weaken/destroy/invalid/abate/annul/abrogate"));
+        arrayList.add(new Contacts(88,"Invective","abusive language","The gang members started using invective language against the party","0","abusive/bad/opprobrious/scurrile/truculent/vitriolic"));
+        arrayList.add(new Contacts(89,"Inveigh","complain bitterly","Certainly these statements inveigh against participation in the three aforementioned controversial practices.","0","beef/bitch/bleat/carp/crab/croak/fuss"));
+        arrayList.add(new Contacts(90,"Inveterate","habitual","I never trust anything he says - the man's an inveterate liar","0","bred-in-the-bone/confirmed/deep/deep-rooted/deep-seated/entrenched"));
+        arrayList.add(new Contacts(91,"Inviolable","incapable of being transgressed or dishonored","Everyone has an inviolable right to protection by a fair legal system.","0","unassiable/holy/hallowed/sacrosanct/untouchable/sacred"));
+        arrayList.add(new Contacts(92,"Irascible","quickly aroused to anger","She's becoming more and more irascible as she grows older.","0","choleric/crabby/cranky/cross/fiery/grouchy"));
+        arrayList.add(new Contacts(93,"Irate","anger","We have received some irate phone calls from customers","0","irritate/aggravate/angry/vex/ballistic/enraged"));
+        arrayList.add(new Contacts(94,"Irrational","not consistent with","His parents were worried by his increasingly irrational behaviour","0","fallacious/illegitimate/inconsequent/unsound/weak/unreasoning"));
+        arrayList.add(new Contacts(95,"Irrelevant","not suitable","These documents are largely irrelevant to the present investigation.","0","not suitable/incongrous/extraneous/immaterial/impertinent/inapplicable/inapposite"));
+        arrayList.add(new Contacts(88,"itinerant","journey","He was an itinerant.","0","traveller/guide/nomad/ambulant/amulatory/fugitive"));
+        arrayList.add(new Contacts(89,"Jaunty","cheerful","When he came back his hat was at a jaunty angle and he was smiling","0","active/sporty/jazzy/kinetic/pert/peppy/spanking"));
+        arrayList.add(new Contacts(90,"Jeopardize","to put at risk","She knew that by failing her finals she could jeopardize her whole future.","0","adventure/compromise/gamble/hazard/peril/risk/venture"));
+        arrayList.add(new Contacts(91,"Jettison","throw away","The station has jettisoned educational broadcasts.","0","discarding/disposition/disposal/junking/scrapping/throwing away"));
+        arrayList.add(new Contacts(92,"Jostle","lively","As we came into the arena, we were jostled by fans pushing their way towards the stage.","0","bore/bull/crash/elbow/squeeze/shoulder/jostled"));
+        arrayList.add(new Contacts(93,"Jubilant","full of high spirited delight","The fans were jubilant at/about/over their team's victory.","0","cock-a-hoop/exulting/rejoicing/prideful/triumphant/crowing"));
+        arrayList.add(new Contacts(94,"Jurisdiction","the territory within which power can be exercised","The court has no jurisdiction in/over cases of this kind.","0","administrtion/authority/governemnt/rule/regime/regimen"));
+        arrayList.add(new Contacts(95,"Juxtapose","place side by side","The exhibition juxtaposes Picasso's early drawings with some of his later works.","0","proximity/touching/nearness/contact/abutment/adjacent"));
+
+        arrayList.add(new Contacts(88,"Labyrinth","maze","Finally, through a labyrinth of corridors she found his office.","0","maze/path/trick/puzzle/quiz/confuse"));
+        arrayList.add(new Contacts(89,"Laceration","the act of tearing","The body showed signs of laceration and bruising.","0","incisive/gash/rent/rip/slash/slit"));
+        arrayList.add(new Contacts(90,"Laconic","short in words","She had a laconic wit.","0","aphoristic/concise/curt/compact/compendious/summary"));
+        arrayList.add(new Contacts(91,"Lampoon","ridicule","The magazine is famed for its merciless political lampoons.","0","satire/pasquinade/ridicule/mock/ridicule/critize"));
+        arrayList.add(new Contacts(92,"Landmark","the position of a prominent","The Rock of Gibraltar is one of Europe's most famous landmarks","0","climacteric/climax/corner/turning point/milestone/milepost"));
+        arrayList.add(new Contacts(93,"Largesse","liberality in bestowing gifts","The medical foundation will be the main beneficiary of the millionaire's largesse.","0","generosity/liberal/giving/forgo/humble/generous"));
+        arrayList.add(new Contacts(94,"Lassitude","lack of interest","Shareholders are blaming the company's problems on the lassitude of the CEO.","0","lethargy/languor/fatigue/burnout/collapse/fatigue"));
+        arrayList.add(new Contacts(95,"Latent","potentially existing but not presently evident","Recent developments in the area have brought latent ethnic tension out into the open.","0","dead/dormanr/fallow/free/idle/inert/inoperative"));
+        arrayList.add(new Contacts(88,"Laudable","praise","The recycling programme is laudable, but does it save much money","0","applaudable/commendable/estimable/admirable/meritorious/praiseworthy"));
+        arrayList.add(new Contacts(89,"Lax","without strickness","The subcommittee contends that the authorities were lax in investigating most of the cases.","0","negligent/slack/lazy/loose/open/not careful"));
+        arrayList.add(new Contacts(90,"Legerdemain","trick","The survey suggests nearly half the electorate believes the president won through electoral legerdemain.","0","sleight/trick/clever/astute/conjuring/magic"));
+        arrayList.add(new Contacts(91,"Legion","in large number","Caesar's legions marched through France and crossed into Britain.","0","multitude/mass/horde/crowd/mass/cram"));
+        arrayList.add(new Contacts(92,"Lethal","deadly","Three minutes after the fire started, the house was full of lethal fumes.","0","deadly/devastating/baleful/fatal/fate/fell/killer"));
+        arrayList.add(new Contacts(93,"Lethargic","lack in alertness","I was feeling tired and lethargic.","0","indifferent/apathetic/sluggish/dull/inert/inactive"));
+        arrayList.add(new Contacts(94,"Levity","lacking seriousness","a brief moment of levity amid the solemn proceedings","0","changeableness/facetiousness/fightiness/flippancy/frivolity/lightness"));
+        arrayList.add(new Contacts(95,"Libel","defamatory statement","She threatened to sue the magazine for libel.","0","aspersing/blackening/calumny/character/assassination/defamation"));
+        arrayList.add(new Contacts(88,"Lithe","flexible","He had the lithe, athletic body of a ballet dancer.","0","bendy/flexible/limber/lissome/willowy/lithesome"));
+        arrayList.add(new Contacts(89,"Livid","angry","He was livid when he found out.","0","angered/enraged/ballistic/apoplectic/reddish/ashen/pallid"));
+        arrayList.add(new Contacts(90,"Loath","to detest","I'm loath to spend it all at once.","0","detest/hate/grudge/hatred/antipathy/loathing"));
+        arrayList.add(new Contacts(91,"Longevity","long living","To what do you attribute your longevity?","0","durability/permanence/long lasting/continuance/lasting/living"));
+        arrayList.add(new Contacts(92,"Lucrative","profitable","The merger proved to be very lucrative for both companies.","0","profitable/economic/fat/gainful/juicy/moneymaking/paying"));
+        arrayList.add(new Contacts(93,"Lugubrious","mournful","a lugubrious face","0","black/bleak/depressing/dreary/cold/depressive/dismal"));
+        arrayList.add(new Contacts(94,"Lurid","horrible in savagery","You can read all the lurid details of the affair in today's paper.","0","sensational/melodramatic/gruesome/ghastly/shocking/apalling"));
+        arrayList.add(new Contacts(95,"Lush","in abundance","lush green valleys","0","profuse/abundant/fertile/plentiful/delicious/savory"));
+        arrayList.add(new Contacts(89,"Magnanimous","large/huge","The team's manager was magnanimous in victory, and praised the losing team.","0","big/chivalrous/elevated/gallant/great/lofty/lordy"));
+        arrayList.add(new Contacts(90,"Maim","injure","Many children have been maimed for life by these bombs.","0","cripple/disable/incapacitate/lame/mutilate/batter/injure"));
+        arrayList.add(new Contacts(91,"Malady","impairment","All the rose bushes seem to be suffering from the same mysterious malady.","0","affection/ail/ailment/complication/distemper/illness"));
+        arrayList.add(new Contacts(92,"Malevolent","wish evil to others","The central character is a malevolent witch out for revenge.","0","bad/bitchy/catty/cruel/despiteful/hateful/nasty"));
+        arrayList.add(new Contacts(93,"Malignant","dangerous to health","The process by which malignant cancer cells multiply isn't fully understood.","0","malicious/injurious/malicious/disaffected/malcontent/evil"));
+        arrayList.add(new Contacts(94,"Malleable","capable of being shaped","Lead and tin are malleable metals.","0","bendy/flexible/plastic/adaptive/extended/moldable/shapable"));
+        arrayList.add(new Contacts(95,"Malnutrition","lacking proper nutrition","Many of the refugees are suffering from severe malnutrition.","0","starvation/hunger/bulimia/undernourishment/anorexia/nervosa"));
+
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
