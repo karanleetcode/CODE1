@@ -392,7 +392,31 @@ public class ArrayClass {
         arrayList.add(new Contacts(93,"Garbled","lacking order","His were all garbled up after listening to his advice.","0","confuse/disarray/distort/fudge/falsify/misstate"));
         arrayList.add(new Contacts(94,"Garrulous","full of trivial conversations","He became more garrulous after drinking a couple of drinks.","0","talkative/blabby/chatty/conversational/talk/extrovert"));
         arrayList.add(new Contacts(95,"Gaudy","showy","She was ostentatiously gaudy in the party.","0","showy/outlandish/impressive/decorated/exceptional/flamboyant"));
+       arrayList.add(new Contacts(88,"Gaunt","very thin","The boy was very gaunt","0","thin/skinny/weak/feeble/lean/barren/desolate"));
+        arrayList.add(new Contacts(89,"Genocide","Systematic killing of a group","Armed troop are being  sent to end the ditators genocide.","0","carnage/mass murder/annihilation/decimation/mass execution/slaughter"));
+        arrayList.add(new Contacts(90,"Genre","a kind of artistic work","The book is a classic of the mystery genre.","0","breed/class/description/feather/kidney/kind/"));
+        arrayList.add(new Contacts(91,"Germane","relevant","facts germane to the dispute","0","relevant/fitting/appropriate/applicable/apposite/pertinent"));
+        arrayList.add(new Contacts(93,"Glean","gather","She gleaned her data from various sources.","0","find out/search/gather/collect/pick up/reap"));
+        arrayList.add(new Contacts(94,"Glib","artfully persuasive in speech","The actor's glib portrayal of a drug addict","0","smooth/slippery/superficial/offhand/easy/not sincere"));
+        arrayList.add(new Contacts(95,"Gratuity","a small amount of money for services rendered","A 15 percent gratuity is automatically added to the restaurant bill.","0","tip/perquisite/claimed/privilege/possession/granted/given"));
+        arrayList.add(new Contacts(88,"Gregarious","some one who is social","She is outgoing and gregarious.","0","sociable/outgoing/extrovert/social/clubby/convivial"));
+        arrayList.add(new Contacts(89,"Grimace","contortion of face","he made a grimace when he tasted the medicine","0","face/frown/lower/mug/pout/scowl/moue"));
+        arrayList.add(new Contacts(90,"Grotesque","distorted and unnatural in shape","a gallery of grotesque from some sicko horror movie.","0","style/fanciful/fantastic/interwoven/san serif/distort"));
+        arrayList.add(new Contacts(91,"Guise","an artful and simulated semblance","She felt as though she should be wearing some sort of Germanic guise.","0","manner/fastion/pretext/semblance/look/appearance"));
+        arrayList.add(new Contacts(92,"Gullible","easily decievable","The students were quite gullible.","0","cadaverous/emaciated/haggard/skeletal/wasted/desolate"));
+        arrayList.add(new Contacts(93,"Gusto","vigorous enjoyment","I don't have the gusto to go on a strenous hike right now.","0","enjoyment/excitement/beans/bounce/brio/dash"));
+        arrayList.add(new Contacts(94,"Habitat","environment around","The habitat of the whale was changed for experimental purpose.","0","environment/ambience/clothing/pattern/ritual/costume/enrobe"));
+        arrayList.add(new Contacts(95,"Halcyon","happy and peaceful time","a halcyon era following the American Civil war.","0","calm/hushed/lown/peaceful/placid/quiet"));
+        arrayList.add(new Contacts(88,"Hapless","deservinf or inciting pity","She plays the hapless heroine who is unlucky in love.","0","unfortunate/luckless/ill-fated/noluck/snakebit/star-crossed"));
+        arrayList.add(new Contacts(89,"Harass","annoy continually or chronically","She was constantly harassed by other students.","0","worry/beseige/break/burn out/bust/fatigue/fag"));
+        arrayList.add(new Contacts(90,"Harbinger","something indicating the approach of something or someone","her father's successful job interview was seen as a harbinger of better times to come.","0","forerunner/beginning/start/begin/precursor/coming"));
+        arrayList.add(new Contacts(91,"Haven","a place of safety","The shelter offers a haven from abusivve spouses.","0","refuge/harbor/port/anchorage/harborage/deck"));
+        arrayList.add(new Contacts(92,"Havoc","violent  and needless disturbance","Several small children can create havoc in a house.","0","confusion/chance-medley/desarrangement/desarray/choas/mess/hell"));
+        arrayList.add(new Contacts(93,"Heinous","harmful","These murders were especially heinous","0","abominable/harmful/noxious/hate/grudge/hatred"));
+        arrayList.add(new Contacts(94,"Heresy","a belif that rejects the orthodox tenets of a religion","They were accused of heresy","0","dissent/dissidence/heterodoxy/nonconformity/unorthodox"));
+        arrayList.add(new Contacts(95,"Heterogenous","consisting of elements not of the same kind or nature","The soil composition of the place is quite hetergenous","0","mixed/eclectic/mescellaneous/medley/motley/magpie/sink"));
 
+        
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
