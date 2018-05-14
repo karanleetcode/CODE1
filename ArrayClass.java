@@ -416,7 +416,64 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Heresy","a belif that rejects the orthodox tenets of a religion","They were accused of heresy","0","dissent/dissidence/heterodoxy/nonconformity/unorthodox"));
         arrayList.add(new Contacts(95,"Heterogenous","consisting of elements not of the same kind or nature","The soil composition of the place is quite hetergenous","0","mixed/eclectic/mescellaneous/medley/motley/magpie/sink"));
 
-        
+         arrayList.add(new Contacts(88,"Hostile","characterized by enmity or ill will","They were entering the hostile territory.","0","adversarial/adversary/inhospitable/antagonistic/negative/unfriendly"));
+        arrayList.add(new Contacts(89,"Humility","a disposition to be humble","He accepted the honor with humility","0","demureness/down-to-earth/humble/lowliness/meekness/modesty"));
+        arrayList.add(new Contacts(90,"Hyperbole","extravagant exaggeration","'enough food to feed a whole ary' is a common hyperbole ","0","extravagant/coloring/caricature/elaboration/exaggeration/padding"));
+        arrayList.add(new Contacts(91,"Iconoclast","soomeone who attacks cherished ideas","notorious as an iconoclast , that music critic isn't afraid to go after sacred crow.","0","bohemian/boho/deviant/non-conformist/heretic/lone wolf/maverick"));
+        arrayList.add(new Contacts(92,"Idyllic","simple","He had an idyllic childhood.","0","peaceful/happy/enjoyable/calm/serene/good"));
+        arrayList.add(new Contacts(93,"Ignominious","bringing disgrace or shame","the prison guard degraded themselves with their inhumane,ignminous treatment of the prisoners.","0","degrading/dishonorable/humiliating/infamous/shady/shy/shoddy"));
+        arrayList.add(new Contacts(94,"Imbibe","absorb or assimilate","She imbibed vast qualities of coffee.","0","belt/gulp/guzzle/drink/hoist/pound"));
+        arrayList.add(new Contacts(95,"Imminent","close in time","We are awaiting their imminent arrival.","0","impending/looming/pending/threatening/around the corner/very soon"));
+        arrayList.add(new Contacts(88,"Impeccable","without fault or error","She has an impeccable taste in music.","0","flawless/errorless/absolute/perfect/immaculate/seamless"));
+        arrayList.add(new Contacts(89,"Impede","slow down a process","The soldiers could not impede the enemy's advance.","0","slow down/hinder/obstruct/cramp/embarrass/fetter"));
+        arrayList.add(new Contacts(90,"Imperative","requiring attention","a verb is a imperative mood","0","masterful/entreaty/necessary/exhortation/restrain/important"));
+        arrayList.add(new Contacts(91,"Imperceptible","impossible","These changes will be imperceptible to most people.","0","impalpable/inappreciable/indistinguishable/insensible/unnoticeable/not seen"));
+        arrayList.add(new Contacts(92,"Imperturbable","marked by extreme calm","Although he seems outwardly imperturbable , he can get very angry at times.","0","serene/cool/calm/unflappable/nerveless/unshakable"));
+        arrayList.add(new Contacts(93,"Impetuous","characterized by undue haste","He's always been an impetuous young man.","0","precipitate/vehemence/forceful/impulsive/violent/energy"));
+        arrayList.add(new Contacts(94,"Impious","lacking impiety or reverence for a god","He was fearful of seeming impious.","0","irreverent/profane/sacrilegious/blasphemous/not pious/lack of respect"));
+        arrayList.add(new Contacts(95,"Implacable","incapable of being mitigated","He has an implacable hatred for his political opponents.","0","adamant/adamantine/bullheaded/dogged/hard/hardened/hard-nosed"));
+        arrayList.add(new Contacts(88,"Implore","to beg","Don't go.I implore you","0","beg/entreat/beseech/appeal/request/impetrate/conjure"));
+        arrayList.add(new Contacts(89,"Importune","beg persistently and urgently","He importuned them to help.","0","beg/beseech/conjure/besiege/impetrate/petition/plead"));
+        arrayList.add(new Contacts(90,"Impresario","a sponsor who books and stages public entertainments","He was the impresario of the play.","0","manager/director/coordinator/producer/promoter/conductor/sponsor"));
+        arrayList.add(new Contacts(91,"Impromptu","with little or no preparation","The speech was prepared impromptu.","0","extemporize/improvised/improv/ad-lib/ad hoc/unstudied/unprepared"));
+        arrayList.add(new Contacts(92,"Imprudent","not wise","a very sweet girl, but so imprudent that no one trusts her with a secret","0","brash/graceless/ill-advised/indiscreet/inadvisale/indelicate/tactless"));
+        arrayList.add(new Contacts(93,"Impugn","attack as false","He impugned his rival's character","0","resist/assail/pungent/contradict/oppose/obsolete"));
+        arrayList.add(new Contacts(94,"Impunity","extemption from punishment or loss","she mistakenly believed that she could insult people wth impunity.","0","exemption/immunity/harmless/freedom/freed/fetter"));
+        arrayList.add(new Contacts(95,"Inadvertent","happening by chance","an advertent encounter with a rattlesnake in the brush","0","casual/chance/fluky/fortuitous/incidental/unintended"));
+
+         arrayList.add(new Contacts(88,"Inane","silly","She acted inane in front of the teachers","0","silly/foolish/immature/young/stupid/dolt"));
+        arrayList.add(new Contacts(89,"Inanimate","lifeless","'pathetic fallacy' is the literacy term for the ascription of human feeling or motives to inanimate natural elements.","0","dull/insensate/insensible/senseless,,,"));
+        arrayList.add(new Contacts(90,"Incapacitate","lacking in or deprived of strength","He was incapacitated by the pain.","0","cripple/disable/hamstring/immobilize/paralyze/prostrate"));
+        arrayList.add(new Contacts(91,"Inchoate","only partly in existence;imperfectly","inchoate feeling of affection for a man whom she had,up till now, thought of as only a friend","0","aborning/budding/inceptive/mascent/incoherent/incipient"));
+        arrayList.add(new Contacts(92,"Incipient","only partly in existence","The project is still in its incipient stages.","0","beginning/aborning/budding/young/inceptive/inchoate"));
+        arrayList.add(new Contacts(93,"Incisive","sharp;fine distinction","The replies of the student were quite incisive.","0","clear/understandable/vivid/confident/explanatory/crystal"));
+        arrayList.add(new Contacts(94,"Inclement","severe","The game wasp postponed due to the inclement weather.","0","stormy/bleak/dirty/foul/nasty/raw"));
+        arrayList.add(new Contacts(95,"Incoherent","without logic and meaningful conversation","The fever made her incoherent.","0","inconsistent/choppy/disconnected/disjointed/unconnected/loose"));
+        arrayList.add(new Contacts(88,"Incongruous","lacking in harmony","The goals are incongruent to the team.","0","irrelevant/not congruent/dissimilar/not same/incoherrent/inconsistent"));
+        arrayList.add(new Contacts(89,"Incontrovertible","impossible to deny or disapprove","incontrovertible facts that left the jury with no choice but to convict","0","accomplished/certain/incontestatble/irrefutable/indubitable/sure"));
+        arrayList.add(new Contacts(90,"Incredulous","not disposed or willing to believe","She listened to his explanations with an incredulous smile","0","skeptical/distrustful/disbelieving/mistrustful/questioning/suspicious"));
+        arrayList.add(new Contacts(91,"Incumbent","necessary as a duty or responsibility","Incumbent often have an advantage in elections.","0","ecclesiastical/obligatory/imposed/compulsory/forced/required"));
+        arrayList.add(new Contacts(92,"Indict","accuse formally of a crime","A grand jury is expected to indict him for murder.","0","accuse/criticize/charge/criminate/defame/impeach"));
+        arrayList.add(new Contacts(93,"Indifference","seeming not to care","She is indifference to the opinions of others.","0","apathy/casualness/complacence/nonchalance/torpor/unconcern"));
+        arrayList.add(new Contacts(94,"Indigenous","originating where it is found","There are several indigenous groups that still live in the area.","0","native/innate/inborn/aboriginal/endemic/domestic"));
+        arrayList.add(new Contacts(95,"Indigent","poor enough to need help from others","The clinic provides free care for indigent patients.","0","deficient/poor/paucity/lacking money/beggared/dirt-poor"));
+        arrayList.add(new Contacts(88,"Indiscriminate","failing to make or recognize distinction","She has been indiscriminate in choosing her friends.","0","assorted/eclectic/heterogenous/miscellaneous/mixed/motley"));
+        arrayList.add(new Contacts(89,"Indoctrinate","teach critically","indoctrinate children in proper safety procedure.","0","educate/teach/instruct/lesson/school/train"));
+        arrayList.add(new Contacts(90,"Indolent","disclined to work or exertion","She is indolent and irresponsible.","0","lazy/conducive/averse/shiftless/slothful/idle"));
+        arrayList.add(new Contacts(91,"Inebriated","stupefied or excited by a chemical substance","He was clearly inebriated when he left the bar.","0","intoxicated/besotted/blasted/blotto/bombed/canned"));
+        arrayList.add(new Contacts(92,"Ineffectual","not producing an intended consequence","another ineffectual plan to lose weight without dieting or exercising.","0","counterproductive/feckless/hamstrung/ineffective/inefficacious"));
+        arrayList.add(new Contacts(93,"Inert","unable to move or resist motion","The helium is quite inert.","0","inactive/sluggish/lacking power/dead/dormanr/fallow"));
+        arrayList.add(new Contacts(94,"Inevitable","incapable of being avoided or prevented","getting wet is inevitable if you are going to try to give your dog a bath.","0","certain/ineluctable/necessary/sure/in the bag/unescapable"));
+        arrayList.add(new Contacts(95,"Inexorable","not to be placated or appeased or moved by entreaty","the inexorable rise of a political movement.","0","unstoppable/relentless/inexorability/not persuaded/unmoved/unchanged"));
+        arrayList.add(new Contacts(88,"Infallible","incapable of failure","I never claimed to be infallible.","0","unerring/certain/unfailing/god/perfect/no errors"));
+        arrayList.add(new Contacts(89,"Infamous","dafame","a city infamous for poverty and robbery.","0","infamy/disgrace/bad/discreditable/dishonorable/ignominious"));
+        arrayList.add(new Contacts(90,"Ingratiate","gain favor with somebody by deliberate efforts","He ingratiated himself with all the guest.","0","established/make known/play upto/truckle/attract/captivate"));
+        arrayList.add(new Contacts(91,"Infraction","a crime less serious than a felony","speeding is only a minor infraction, but vehicular homicide is a serious felony.","0","contravention/breach/infringement/trespass/violation/infringement"));
+        arrayList.add(new Contacts(92,"Inherent","existing as an essential component","That component is an inherent part of that system.","0","essential/important/constitutonal/hardwired/ingrained/inbred"));
+        arrayList.add(new Contacts(93,"Inhibition","the action of forbidding","She laughed loudly and without inhibition.","0","continence/discipline/constraint/refrainment/repression/seld-command"));
+        arrayList.add(new Contacts(94,"Iniquity","absence of moral or spiritual values","a nation still struggling with the aftereffects of the iniquity of slavery.","0","corruption/debauchery/depravity/immorality/vice/sin/profligacy"));
+        arrayList.add(new Contacts(95,"Initiate","start","The pact was initiated by few people.","0","start/begin/rudimentary/introduce/found/institute"));
+       
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
