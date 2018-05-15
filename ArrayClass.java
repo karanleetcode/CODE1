@@ -539,6 +539,40 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Malleable","capable of being shaped","Lead and tin are malleable metals.","0","bendy/flexible/plastic/adaptive/extended/moldable/shapable"));
         arrayList.add(new Contacts(95,"Malnutrition","lacking proper nutrition","Many of the refugees are suffering from severe malnutrition.","0","starvation/hunger/bulimia/undernourishment/anorexia/nervosa"));
 
+        
+        arrayList.add(new Contacts(88,"Mammoth","huge","Cleaning up the city-wide mess is going to be a mammoth task.","0",""));
+        arrayList.add(new Contacts(89,"Mandate","compulsory","At the forthcoming elections, the government will be seeking a fresh mandate from the people.","0",""));
+        arrayList.add(new Contacts(90,"Manifest","clearly revealed to the mind","The workers chose to manifest their dissatisfaction in a series of strikes.","0",""));
+        arrayList.add(new Contacts(91,"Manifold","large number","Despite her manifold faults, she was a strong leader.","0",""));
+        arrayList.add(new Contacts(92,"Martinet","someone who demands exact conformity to the rules","He is quite martinet in his ways.","0",""));
+        arrayList.add(new Contacts(93,"Masticate","bite and grind with teeth","The cows were masticating their food","0","chew/grind/soften/champ/chew/chaw"));
+        arrayList.add(new Contacts(94,"Maudlin","handle roughly","a maudlin movie about a lovable tramp.","0","chocolate-box/cloying/drippy/fruity/corny/sloppy/soppy"));
+        arrayList.add(new Contacts(95,"Megalomania","a psychological state characterized by delusion","He has a megalomania for doing great things.","0","mania/delusion/hazy/mental/illness/aim"));
+        arrayList.add(new Contacts(88,"Mendacious","","Some of these statements are misleading and some are downright mendacious.","0","dishonest/lying/untruthful/lier/untruthful/sham/delusion"));
+        arrayList.add(new Contacts(89,"Menial","unskilled work","It's fairly menial work, such as washing dishes and cleaning floors.","0","daily/domestic/flunky/slavey/steward/servant'"));
+        arrayList.add(new Contacts(90,"Mentor","a wise and trusted guide","The teacher is a mentor for many teachers","0","teacher/instructor/manager/coach/tutor/counsel"));
+        arrayList.add(new Contacts(91,"Mercenary","A person hired to fight for another country","He had some mercenary scheme to marry a wealthy widow.","0","greedy/venal/avaricious/avid/coveting/grabby/grasping"));
+        arrayList.add(new Contacts(92,"Metamorphosis","striking change in appearance or character or circumstances","Under the new editor, the magazine has undergone a metamorphosis.","0","changeover/conversion/transfiguration/transformation/change/transfer"));
+        arrayList.add(new Contacts(93,"Meticulous","careful","Many hours of meticulous preparation have gone into writing the book.","0","careful/painstaking/loving/fussy/conscientious/scruplous"));
+        arrayList.add(new Contacts(94,"Mien","dignified manner or conduct","His aristocratic mien and expensive clothes singled him out.","0","bearing/aspect/appearance/dress/figure/garb/look"));
+        arrayList.add(new Contacts(95,"Milieu","environment","It is a study of the social and cultural milieu in which Michelangelo lived and worked.","0","ambience/environment/surrounding/background/atmosphere/climate"));
+        arrayList.add(new Contacts(88,"Modify","cause to change","Instead of simply punishing them, the system encourages offenders to modify their behaviour.","0","moderate/change/qualify/transfer/orientation/new"));
+        arrayList.add(new Contacts(89,"Mollify","cause to be more favorably inclined","I tried to mollify her by giving her flowers.","0","soothe/pacify/appease/relent/soften/assuage"));
+        arrayList.add(new Contacts(90,"Monolithic","imposing in sizeor bulk or solidity","monolithic state-run organizations","0","monolith/huge/massive/big/large/single unit"));
+        arrayList.add(new Contacts(91,"Moribund","being on the point of death","How can the department be revived from its present moribund state?","0","dying/morose/dull/die/very sick/not effective"));
+        arrayList.add(new Contacts(92,"Mortality","the quality or state of being subject to death","Her death made him more aware of his own mortality.","0","virtue/character/decency/probity/goodness/honesty"));
+        arrayList.add(new Contacts(93,"Motivate ","give an incentive for action","Like so many people, he's motivated by greed.","0","motive/impel/excite/incentive/entice/compel"));
+        arrayList.add(new Contacts(94,"Mundane","found in the ordinary course of event","Mundane matters such as paying bills and shopping for food do not interest her.","0","earthly/commomplace/boredom/transitory/dull/ordinary"));
+        arrayList.add(new Contacts(95,"Munificient","very generous","A former student has donated a munificent sum of money to the college.","0","generous/humble/liberal/lavish/bighearted/bounteous/bountiful"));
+        arrayList.add(new Contacts(88,"Murky","clouded as with sediment","The river was brown and murky after the storm.","0","foggy/misty/dark/not clear/caliginous/darkened"));
+        arrayList.add(new Contacts(89,"Myraid","in large number","a myriad of choices","0","legion/large/abundance/barrel/basketful/bucket"));
+        arrayList.add(new Contacts(90,"Nadir","lowest point","The defeat was the nadir of her career.","0","bedrock/bottom/depth/rock/bottom/zero"));
+        arrayList.add(new Contacts(91,"Naive","simplicity","She was very naive to believe that he'd stay with her.","0","primitve/natural/prototype/artless/credulous/dewy"));
+        arrayList.add(new Contacts(92,"Nascent","beginning","a nascent political party","0","beginning/initiate/aborning/budding/inceptive/inchoate"));
+        arrayList.add(new Contacts(93,"Nebulous","lacking definite form","She has a few nebulous ideas about what she might want to do in the future, but nothing definite.","0","indistinct/vague/nebuar/not clear/opaque/enigmatic"));
+        arrayList.add(new Contacts(94,"Nefarious","harmful","The company's CEO seems to have been involved in some nefarious practices/activities.","0","vicious/wicked/wrong/bad/rotten/unsavory/unethical"));
+        arrayList.add(new Contacts(95,"Nepotism","favoritism shown to relatives or friends","He was guilty of nepotism and corruption.","0","favouritism/bias/partiality/favorite/kinship/fan"));
+        
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
