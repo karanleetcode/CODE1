@@ -572,6 +572,39 @@ public class ArrayClass {
         arrayList.add(new Contacts(93,"Nebulous","lacking definite form","She has a few nebulous ideas about what she might want to do in the future, but nothing definite.","0","indistinct/vague/nebuar/not clear/opaque/enigmatic"));
         arrayList.add(new Contacts(94,"Nefarious","harmful","The company's CEO seems to have been involved in some nefarious practices/activities.","0","vicious/wicked/wrong/bad/rotten/unsavory/unethical"));
         arrayList.add(new Contacts(95,"Nepotism","favoritism shown to relatives or friends","He was guilty of nepotism and corruption.","0","favouritism/bias/partiality/favorite/kinship/fan"));
+            arrayList.add(new Contacts(88,"Nettle","irritate","stinging nettles","0","irritate/vex/annoy/angry/bother/nettles"));
+        arrayList.add(new Contacts(89,"Neurotic","affected by worry due to mental disturbance","She's neurotic about her weight - she weighs herself three times a day.","0","neurosis/emotional/unstable/affected/fearful/neurosis"));
+        arrayList.add(new Contacts(90,"Neutralize","make ineffective","to neutralize an acid/odour","0","kill/destroy/ineffective/neutral/annul/cancel"));
+        arrayList.add(new Contacts(91,"Nirvana","the beautitude that transcends the cycle of reincarnation","The state of being nirvana.","0","bliss/heaven/dream/happiness/oblivion/forgetfulness"));
+        arrayList.add(new Contacts(92,"Noisome","to cause nausea","a noisome stench","0","malodorous/harmful/noxious/obnoxious/unpleasant/disgusting"));
+        arrayList.add(new Contacts(93,"Nomadic","migratory","a tribe of Somalian desert nomads","0","ambulant/ambulatory/fugitive/peregrine/peripatetic/vagrant"));
+        arrayList.add(new Contacts(94,"Nominal","very small","She's the nominal head of our college - the real work is done by her deputy.","0","trifling/approximate/simple/insignificant/formal/paper"));
+        arrayList.add(new Contacts(95,"Nondescript","lacking distinct or individual","Their offices are in a nondescript building on the edge of town.","0","dull/drab/uninteresting/beige/characterless/faceless"));
+        arrayList.add(new Contacts(88,"Nonentity","a person of no influence","She was once a political nonentity, but has since won a formidable reputation as a determined campaigner.","0","nonexistence/chimera/conceit/daydream/fancy/figment"));
+        arrayList.add(new Contacts(89,"Nostalgia","longing for the past","Some people feel nostalgia for their schooldays.","0","homesickness/irrecoverable/wistful/rueful/regret/memories"));
+        arrayList.add(new Contacts(90,"Nuance","a subtle difference in meaning","The painter has managed to capture every nuance of the woman's expression.","0","delicate/nicety/subtle/small difference/variation/change"));
+        arrayList.add(new Contacts(91,"Nullify","to make void","The state death penalty law was nullified in 1977.","0","void/null/lose/abate/annul/strike down"));
+        arrayList.add(new Contacts(92,"Nuture","the organic process of nourishing","She wants to stay at home and nurture her children.","0","training/upbringing/nourishes/advance/cultivate/forward"));
+        arrayList.add(new Contacts(93,"Obese","fat","She was not just overweight; she was clinically obese.","0","blubbery/chubby/corpulent/fleshy/lardy/overweight"));
+        arrayList.add(new Contacts(94,"Obliterate","to destroy","The missile strike was devastating - the target was totally obliterated.","0","remove/cancel/abolish/root/clean/blot out"));
+        arrayList.add(new Contacts(95,"Obloquy","a false accusation of a offense","His controversial essays have brought him much obloquy.","0","abuse/invective/bad/hatred/harsh/critical"));
+        arrayList.add(new Contacts(88,"Obscure","hidden","an obscure island in the Pacific","0","secluded/mysterious/hidden/shady/opaque/arcane"));
+        arrayList.add(new Contacts(89,"Obsequious","attempting to win influence by flattery","She is embarrassingly obsequious to anyone in authority.","0","fawning/ubservient/servile/servant/flattery/please"));
+        arrayList.add(new Contacts(90,"Obsess","preoccupied","The whole relationship obsessed me for years.","0","thinking/thoughful/cerebral/preoccupied/think about/mindful"));
+        arrayList.add(new Contacts(91,"Obsolescence","falling into disuse or becoming out of date","Mobile phone technology is developing so quickly that many customers are concerned about obsolescence.","0","obsolete/destroy/gone/end/not existence/done"));
+
+        arrayList.add(new Contacts(92,"Obviate","do away with","A peaceful solution would obviate the need to send a UN military force.","0","avert/forestall/head-off/help/prevent/preclude"));
+        arrayList.add(new Contacts(93,"Occult","a musical interval of eight tones","She claims to have occult powers, given to her by some mysterious spirit.","0","belie/blanket/blot out/cloak/conceal/cover/curtain/disguise"));
+        arrayList.add(new Contacts(94,"Ominous","threatening or foreshadowing evil","There was an ominous silence when I asked whether my contract was going to be renewed.","0","baleful/dire/direful/doomy/foreboding/ill"));
+        arrayList.add(new Contacts(95,"Omnipotent","unlimited power","How can a loving, omnipotent God permit disease, war and suffering?","0","arrant/almighty/complete/all-powerful/alnighty/god"));
+        arrayList.add(new Contacts(88,"Opprobrium","extreme dishonor","International opprobrium has been heaped on the country following its attack on its neighbours.","0","contempt/reproach/dishonor/disgrace/reflection/scandal"));
+        arrayList.add(new Contacts(89,"Opulence","wealthy","an opulent hotel","0","assets/capital/fortune/means/wealth/riches"));
+        arrayList.add(new Contacts(90,"Originate","come into existence","Although the technology originated in the UK, it has been developed in the US","0","begin/spring/initiate/exists/origin/start"));
+        arrayList.add(new Contacts(91,"Ostensible","stated or appearing to be true","Their ostensible goal was to clean up government corruption, but their real aim was to unseat the government.","0","apparent/plausible/assumed/evident/apparent/ostensive"));
+        arrayList.add(new Contacts(92,"Ostentatious","noticeable","They criticized the ostentatious lifestyle of their leaders.","0","showy/noticeable/flamboyant/flaring/flashy/garish"));
+        arrayList.add(new Contacts(93,"Ostracize","expel from a community","His colleagues ostracized him after he criticized the company in public.","0","ostracism/exclude/expurgate/expunge/isolate/alone"));
+        arrayList.add(new Contacts(94,"Oust","remove from a poistion","The president was ousted (from power) in a military coup in January 1987.","0","eject/vomit/supplant/remove/cancel/throw"));
+        arrayList.add(new Contacts(95,"Overt","open and observable","overt criticism","0","manifest/seen/noticeable/overt/not secretive/unhidden"));
         
         /*
 
