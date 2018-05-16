@@ -606,6 +606,54 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Oust","remove from a poistion","The president was ousted (from power) in a military coup in January 1987.","0","eject/vomit/supplant/remove/cancel/throw"));
         arrayList.add(new Contacts(95,"Overt","open and observable","overt criticism","0","manifest/seen/noticeable/overt/not secretive/unhidden"));
         
+           arrayList.add(new Contacts(88,"Pall","to turn pale","Palls of smoke obscured our view.","0","satiate/pall/dwindle/pallium/corpse/dead"));
+        arrayList.add(new Contacts(89,"Palliate","lessen or try to lessen","They tried to palliate the hardship of their lives.","0","deodorize/excuse/explain/away/extenuate/gloze"));
+        arrayList.add(new Contacts(90,"Paltry","contemptibly small in amount","Student grants these days are paltry.","0","trashy/mean/inferior/measly/meager/trivial"));
+        arrayList.add(new Contacts(91,"Panacea","remedy for illness","Technology is not a panacea for all our problems.","0","cure-all/catholicon/elixir/nostrum/theriac/better"));
+        arrayList.add(new Contacts(92,"Pandemonium","a state of extreme confusion","Pandemonium reigned in the hall as the unbelievable election results were read out.","0","demon/hell/tumult/uproar/disaster/bad"));
+        arrayList.add(new Contacts(93,"Parable","a short moral story","She told a parable about the knight.","0","example/similar/example/apalogue/fable/allegory"));
+        arrayList.add(new Contacts(94,"Paradox","something that contradicts","It's a curious paradox that drinking a lot of water makes you feel more thirsty","0","dictotomy/incongruity/contradictory/heterodox/unorthodox/uncommon"));
+        arrayList.add(new Contacts(95,"Paragon","epitome","In the novel, Constanza is a paragon of virtue.","0","ideal/model/idea/exemplar/ideal/nonpareil/beau ideal"));
+        arrayList.add(new Contacts(88,"Paramount","having superior power","There are many priorities, but reducing the budget deficit is paramount","0","dominant/supreme/capital/big/grand/leading"));
+        arrayList.add(new Contacts(89,"Pariah","social outcast","The guy has a image of a pariah in the minds of many students.","0","caste/outcast/castaway/castoff/leper/offscouring"));
+        arrayList.add(new Contacts(90,"Paroxysm","a sudden uncontrollable attack","In a sudden paroxysm of jealousy he threw her clothes out of the window.","0","otburst/convulsion/agony/blaze/burst/fit/flare"));
+        arrayList.add(new Contacts(91,"Parsimonious","excessively unwilling to spend","She's too parsimonious to heat the house properly.","0","thrift/stingy/frugal/cheapness/tighness/pinching"));
+        arrayList.add(new Contacts(92,"Passe","out of fashion","Wines from that region were quite popular for a while, but now they're rather passé.","0","outmoded/antiquated/archaic/dated/demoded/kaput/medieval"));
+        arrayList.add(new Contacts(93,"Pathetic","deserving or inciting pity","The refugees were a pathetic sight - starving, frightened and cold.","0","moving/compassionate/sad/melancholy/laughable/heartbreaking"));
+        arrayList.add(new Contacts(94,"Paucity","an insufficient amount or number","There is a paucity of information on the ingredients of many cosmetics.","0","poor/scarcity/dearth/crunch/famine/failure/drought"));
+        arrayList.add(new Contacts(95,"Pecuniary","involving money","pecuniary interest/loss/benefit","0","fee/money/dollars/monetary/fiscal/financial/pocket"));
+        arrayList.add(new Contacts(88,"Pedagogue","scholar","He is a pedagogue to many students.","0","teacher/mentor/instructor/scholar/eductionist/preceptor"));
+        arrayList.add(new Contacts(89,"Penance","self punishment","As a penance, she said she would buy them all a box of chocolates.","0","repay/remorse/regret/penalty/repayment/self-abasement"));
+        arrayList.add(new Contacts(90,"Penchant","a strong liking","a penchant for melodrama/skiing/exotic clothes","0","liking/attraction/leaning/affinity/aptitude/bias/bone"));
+        arrayList.add(new Contacts(91,"Penitent","expressing remorse for misdeeds","\"I'm sorry,\" she said with a penitent smile.","0","repentant/remorseful/sorry/rueful/apologetic/regretful"));
+        arrayList.add(new Contacts(92,"Pensive","deeply or seriosly thoughtful","She became withdrawn and pensive, hardly speaking to anyone.","0","pendant/thoughtful/cerebral/thinking/cognitive/musing"));
+        arrayList.add(new Contacts(93,"Penury","a state of extreme poverty","The state of penury  teaches a lot of things.","0","poverty/paucity/beggary/destitution/neediness/pauperism"));
+        arrayList.add(new Contacts(94,"Perceive","to become aware of","Women's magazines are often perceived to be superficial.","0","see/notice/observe/awareness/feel/see/sense"));
+        arrayList.add(new Contacts(95,"Perfidious","tending to betray","She described the new criminal bill as a perfidious attack on democracy.","0","faithless/perfidy/disloyal/steadfast/steady/fast"));
+
+        arrayList.add(new Contacts(88,"Perfunctory","hasty and without attention to detail","His smile was perfunctory.","0","routine/apathetic/casual/complacent/disinterested/incurious"));
+        arrayList.add(new Contacts(89,"Permeate","spread or diffuse through","A foul smell of stale beer permeated the whole building.","0","interpenetrate/percolate/riddle/suffuse/transfuse/pervade"));
+        arrayList.add(new Contacts(90,"Pernicious","harmful","The cuts in government funding have had a pernicious effect on local health services","0","harmful/noxious/hurt/deadly/injurious/bad"));
+        arrayList.add(new Contacts(91,"Perpetrate","perform an action","Federal soldiers have been accused of perpetrating atrocities against innocent","0","commit/accomplish/achieve/bring/perform/put through/negotiate"));
+        arrayList.add(new Contacts(92,"Pernicious","extremely harmful","The cuts in government funding have had a pernicious effect on local health services.","0","wicked/deadly/injurious/adverse/bad/detrimental"));
+        arrayList.add(new Contacts(94,"Perpetuate","cause to continue or prevail","Increasing the supply of weapons will only perpetuate the violence and anarchy.","0","everlasting/continual/young/continuing/unstoppable/forever"));
+        arrayList.add(new Contacts(95,"Persevere","deviating from what is considered moral","It looks as if the policy will be a success, providing that the government perseveres ","0","persist/carry on/persist/gut it out/hang in there/try"));
+        arrayList.add(new Contacts(88,"Perspicacious","spacious","His perspicacious grandfather had bought the land as an investment","0","spacious/shrewd/keen/undertand/acute mental/clever"));
+        arrayList.add(new Contacts(89,"Pertinent","relevant","Chapter One is pertinent to the post-war period.","0","relevant/similar/suiatable/comfortable/apposite/appropriate"));
+        arrayList.add(new Contacts(90,"Peruse","to use carefully","He opened a newspaper and began to peruse the personal ads.","0","study/examine/read/pore/cursory/see/notice"));
+        arrayList.add(new Contacts(91,"Perverse","incorrect","Jack was being perverse and refusing to agree with anything we said.","0","incorrect/contrary/wrong/improper/wrongheaded/different"));
+        arrayList.add(new Contacts(92,"Pestilence","disease that causes many people to die","Jack was being perverse and refusing to agree with anything we said.","0","bubonic plague/pest/plague/disease/infection/virus"));
+        arrayList.add(new Contacts(93,"Phenomenon","","Gravity is a natural phenomenon.","0","caution/flash/marvel/miracle/wonder/portent/prodigy"));
+        arrayList.add(new Contacts(94,"Phlegmatic","not easilyupset,excited","As a football player, his great asset was his calm, phlegmatic manner.","0","impassive/phelgm/affectless/apathetic/cold-blooded/emotionless/impassible"));
+        arrayList.add(new Contacts(95,"Phobia","fear","I've got a phobia about/of worms.","0","fear/scare/apprehensible/dislike/illogical fear/move-away"));
+        arrayList.add(new Contacts(88,"Pinnacle","highest point","By the age of 32 she had reached the pinnacle of her career.","0","acme/apogee/highest point/summit/peak/apex"));
+        arrayList.add(new Contacts(89,"Pique","irritate","He stormed from the room in a fit of pique, shouting that he had been misunderstood.","0","offense/vanity/dudgeon/huff/miff/offense/peeve/resentment"));
+        arrayList.add(new Contacts(90,"Pittance","a small amount of money","He works hard but he's paid a pittance.","0","chicken feed/chump/change/dime/hay/peanuts"));
+        arrayList.add(new Contacts(91,"Plaintiff","a person who sues other person","a palintiff filed by the student","0","complainant/suer/defendant/accuse/guilt of/responsible for"));
+        arrayList.add(new Contacts(93,"Plethora","in large number","There's a plethora of books about the royal family.","0","myriad/large/legion/profusion/abundance/excess/superfluity"));
+        arrayList.add(new Contacts(94,"Plight","condition","Few of us can be unmoved by the plight of the refugees.","0","condition/circumstances/engage/pledge/precarious/situation"));
+        arrayList.add(new Contacts(95,"Poignant","feeling of sadness","The photograph awakens poignant memories of happier days.","0","pervasive/pungent/moving/apt/cutting/piercing"));
+        
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
