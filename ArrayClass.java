@@ -729,7 +729,29 @@ public class ArrayClass {
         arrayList.add(new Contacts(93,"Repertoire","the range of skills in a occupation","The Royal Shakespeare Company also have many modern plays in their repertoire.","0","expedient/budget/force/fund/inventory/supply/stock"));
         arrayList.add(new Contacts(94,"Replenish","fll something back","Food stocks were replenished by/with imports from abroad.","0","replace/perfect/nourish/stock/full/repay"));
         arrayList.add(new Contacts(95,"Replete","filled to satisfaction","After two helpings of dessert, Sergio was at last replete.","0","full/complete/stout/blubbery/chubby/corpulent/fleshy/gross"));
-
+   arrayList.add(new Contacts(88,"Solace","comfort","she sought solace in her religion","0","comfort/ consolation/ cheer/ support/ relief/joy"));
+        arrayList.add(new Contacts(89,"Solicit","request","he called a meeting to solicit their views","0","ask for/ request/ apply for/ put in for/ seek/ beg/ plead for/ sue for/ crave/ canvass,"));
+        arrayList.add(new Contacts(90,"Somber","grave or even gloomy","the night skies were sombre and starless","0","dark/ dark-coloured/ dull/ dull-coloured/ drab/ dingy/ shady"));
+        arrayList.add(new Contacts(91,"Sophistry","a deliberately invalid argument","trying to argue that I had benefited in any way from the disaster was pure sophistry","0","specious reasoning/ the use of fallacious arguments/ sophism/ casuistry/ quibbling/equivocation"));
+        arrayList.add(new Contacts(92,"Sordid","foul and run down","the story paints a sordid picture of bribes and scams","0","seedy/ seamy/ unsavoury/ shoddy/ vile/ foul/ tawdry/ louche/ cheap/ base "));
+        arrayList.add(new Contacts(93,"Spate","a sudden forceful flow","a spate of attacks on holidaymakers","0","run/ cluster/ string/ outbreak/ rash/ epidemic/ explosion/ plague "));
+        arrayList.add(new Contacts(95,"Spontaneous","said or done without having bee planned","\"the audience broke into spontaneous applause\"","0","unforced/ voluntary/ unconstrained/ unprompted/ unbidden/unsolicited/ unplanned "));
+        arrayList.add(new Contacts(88,"Sporadic","in intervals","sporadic fighting broke out","0","occasional/ infrequent/ irregular/ periodical/ periodic/ scattered/ patchy/ isolated/ odd"));
+        arrayList.add(new Contacts(89,"Spurious","unreal","separating authentic and spurious claims","0","bogus/ fake/ not genuine/ specious/ false/ factitious/ counterfeit/ fraudulent"));
+        arrayList.add(new Contacts(90,"Squeamish","easilt disgusted","I've always been squeamish about bugs","0","principled/ conscientious/ fastidious/ particular/ punctilious/ finicky/ fussy "));
+        arrayList.add(new Contacts(91,"Stagnant","not growing","a stagnant ditch","0","still/ motionless/ immobile/ inert/ lifeless/ dead/ standing/ slack/ static"));
+        arrayList.add(new Contacts(92,"Steep","sharp inclination","she pushed the bike up the steep hill","0","precipitous/sheer/ abrupt/ sharp/ perpendicular/ vertical/ bluff/ vertiginous "));
+        arrayList.add(new Contacts(93,"Staunch","firm and dependable","a staunch supporter of the anti-nuclear lobby","0","stalwart/ loyal/ faithful/ trusty/ committed/ devoted/ dedicated/ dependable"));
+        arrayList.add(new Contacts(94,"Stentorian","with a booming voice","a stentorian roar","0","loud/ booming/ thundering/ thunderous/ trumpeting/blaring/ roaring/ ear-splitting "));
+        arrayList.add(new Contacts(95,"Stereotype","established belief","the stereotype of the woman as the carer","0","typecast/ pigeonhole/ conventionalize/ standardize/ categorize/ compartmentalize"));
+        arrayList.add(new Contacts(88,"Stigma","a synbol of disgrace","the stigma of having gone to prison will always be with me","0","shame/ disgrace/ dishonour/stain/ taint/ blot/ blot on one's escutcheon/ blemish "));
+        arrayList.add(new Contacts(89,"Stipulate","make an express demand","he stipulated certain conditions before their marriage","0","specify/ set down/ set out/lay down/ set forth/state clearly/ demand/ require/ insist on "));
+        arrayList.add(new Contacts(90,"Strident","loud and harsh","his voice had become increasingly strident","0","harsh/ raucous/ rough/ grating/ rasping/ jarring/ loud/ stentorian/ shrill"));
+        arrayList.add(new Contacts(91,"Strife","bitter conflict","strife within the community","0","conflict/ friction/ discord/ disagreement/ dissension/ variance/ dispute/ argument "));
+        arrayList.add(new Contacts(92,"Stunt","check the grown or development","some weeds produce chemicals that stunt the plant's growth","0","inhibit/ impede/ hamper/ hinder/restrict/ retard/slow/ curb/ arrest,"));
+        arrayList.add(new Contacts(94,"Stymie","hinder or prevent the progress","the changes must not be allowed to stymie new medical treatments","0","impede/ interfere with/ hamper/ hinder/ obstruct/ inhibit/ frustrate/ thwart/foil/ spoil/ stall "));
+        arrayList.add(new Contacts(95,"Subjugate","make subserviant","the invaders had soon subjugated most of the population","0","conquer/ vanquish/ defeat/ crush/ quell/ quash/ gain mastery over/ gain ascendancy over"));
+        
 
         /*
 
