@@ -679,6 +679,57 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Prodigy","Unusually gifted","The 16-year-old tennis prodigy is the youngest player ever to reach the Olympic finals.","0","omen/caution/flash/marvel/miracle/wonder"));
         arrayList.add(new Contacts(95,"Proffer","present for acceptance","He shook the warmly proffered hand.","0","tender/offer/suggestion/proposal/proposition/suggest"));
        
+         arrayList.add(new Contacts(88,"Profligate","in large number","She is well-known for her profligate spending habits.","0","dissipation/licentious/extravagant/high-rolling/spendthrift/wasteful"));
+        arrayList.add(new Contacts(89,"Profound","deep","His mother's death when he was aged six had a very profound effect on him.","0","deep/complete/abstruse/arcane/hermetic/recondite"));
+        arrayList.add(new Contacts(90,"Profuse","abundant","She was admitted to St Mary's Hospital with profuse bleeding.","0","extravagant/bountiful/copious/gushing/riotous/lavish"));
+        arrayList.add(new Contacts(91,"Progeny","descendant of a person","His numerous progeny are scattered all over the country.","0","children/descendants/product/outcome/fruit/posterity"));
+        arrayList.add(new Contacts(92,"Prognosticate","to predict","He is in a good position to prognosticate on the future of commerce.","0","call/forecast/predict/forestall/read/presage"));
+        arrayList.add(new Contacts(93,"Prohibition","restrict","The environmental group is demanding a complete prohibition against the hunting","0","restrict/banning/barring/enjoining/interdiction/prescribing"));
+        arrayList.add(new Contacts(94,"Prolific","intellectually productivw","He was probably the most prolific songwriter of his generation.","0","fertile/fat/luxriant/lush/fertile/rich"));
+        arrayList.add(new Contacts(95,"Promulgate","state or announce","He promulgated the idea of him getting a job.","0","proclaim/declare/advertise/annuciate/blare/blazon"));
+        arrayList.add(new Contacts(88,"Propagate","multiply","Most house plants can be propagated from stem cuttings.","0","extend/publicize/breed/multiply/procreate/reproduce"));
+        arrayList.add(new Contacts(89,"Propensity","natural inclination","He's well-known for his natural propensity for indiscretion.","0","leaning/inclination/aptness/proneness/way/tendency"));
+        arrayList.add(new Contacts(90,"Propinquity","being close together","Don't let geographical propinquity determine your choice.","0","adjacency/closeness/immediacy/nearness/contiguity/vicinity"));
+        arrayList.add(new Contacts(91,"Propitious","presenting favorable circumstances","With the economy in recession, it was not a propitious time to start a company.","0","favorable/advantegeous/benevolent/auspicious/bright/golden"));
+        arrayList.add(new Contacts(92,"Propriety","correct behavoir","She was careful always to behave with propriety.","0","proper/relevent/similar/comfortable/conventional/decorum"));
+        arrayList.add(new Contacts(93,"Proximity","closeness","The best thing about the location of the house is its proximity to the town centre.","0","closeness/adjacency/vicinity/propinquity/immediacy/nearness"));
+        arrayList.add(new Contacts(94,"Prudent","sound judgement","It's always prudent to read a contract carefully before signing it.","0","prudence/frugal/judicious/wise/provident/shrewd"));
+        arrayList.add(new Contacts(95,"Pugnacious","eager or quick to argue","I found him pugnacious and arrogant.","0","belligerent/truculent/quarrelsome/aggressive/agonistic/scrappy"));
+
+        arrayList.add(new Contacts(88,"Puissant","powerful","The king introduced some of his most significant reforms as an advertisement of his  own ever most puissant authority.","0","powerful/potent/heavy/potentate/significant/mighty"));
+        arrayList.add(new Contacts(89,"Pungent","strong and sharp","the pungent whiff of a goat","0","incisive/acrid/nippy/sharp/tangy/strong"));
+        arrayList.add(new Contacts(90,"Puny","small","a puny little man","0","weak/small/bantam/dinky/little/slight"));
+        arrayList.add(new Contacts(91,"Qualm","uneasiness about the fitnes of the action","She had no qualms about lying to the police.","0","compunction/misgiving/scruple/uncertain/doubt/not sure"));
+        arrayList.add(new Contacts(92,"Quandary","state of uncertainity in a choice","I've had two job offers, and I'm in a real quandary about/over which one to accept.","0","perplexity/catch-22/dilemma/confusing/perplex/twisted"));
+        arrayList.add(new Contacts(93,"Quarry","a person who is the aim of the attack","a granite/limestone/marble/slate quarry","0","prey/game/to dig/investigate/to ask/gaming"));
+        arrayList.add(new Contacts(94,"Quell","to extinguish","Police in riot gear were called in to quell the disturbances/unrest.","0","pacify/quiet/clamp down/crack down/subdue/squash"));
+        arrayList.add(new Contacts(95,"Quip","a witty saying","It was Oscar Wilde who made the famous quip about life mimicking art.","0","oddity/quibble/equivocation/gibe/crotchet/curiosity"));
+
+             arrayList.add(new Contacts(88,"Rabid","excessive enthusiasm","a rabid dog","0","furious/rabid/extremist/fanatic/extreme/radical"));
+        arrayList.add(new Contacts(89,"Raconteur","to tell","He was a brilliant raconteur.","0","tell/say/narrate/storyteller/account/ask"));
+        arrayList.add(new Contacts(90,"Rail","a horizontal bar","Environmentalists argue that more goods should be transported by rail.","0","track/railroad/railing/bar/structural/fence"));
+        arrayList.add(new Contacts(91,"Raiment","decorative clothin","He is good in his raiment clothing.","0","clothing/rags/attire/apparel/habit/wear"));
+        arrayList.add(new Contacts(92,"Rash","imprudently incurring risk","I've got an itchy rash all over my chest.","0","adventurous/effective/cursory/drive-by/flying/headlong"));
+        arrayList.add(new Contacts(93,"Rationalize","employ logic and reason","She rationalized the cost by saying that an expensive carpet would last longer","0","account/attribute/explain/say/examine/explain away"));
+        arrayList.add(new Contacts(94,"Raucous","unpleasantly harsh","I heard the raucous call of the crows.","0","strident/hoarse/loud/boisterious/hell-raising/knockabout"));
+        arrayList.add(new Contacts(95,"Raze","tear down","The town was razed to the ground in the bombing raid ","0","erase/demolish/shave/cut/clear/annihilate"));
+        arrayList.add(new Contacts(88,"Realm","a domain in which something is dominant","Her interests are in the realm of practical politics.","0","sphere/domain/arena/area/business/circle"));
+        arrayList.add(new Contacts(89,"Rebuke","to criticize","I was rebuked by my manager for being late.","0","reprove/reprimand/check/chide/admonish/burn one"));
+        arrayList.add(new Contacts(90,"Recant","formally reject","After a year spent in solitary confinement, he publicly recanted (his views).","0","renounce/revoke/abjure/revoke/give up/abnegate"));
+        arrayList.add(new Contacts(91,"Recoil","spring back","He leaned forward to kiss her and she recoiled in horror.","0","dengenerate/rebound/blench/cringe/quail/flinch"));
+        arrayList.add(new Contacts(92,"Recondite","difficult to penetrate","We had to work from material that was both complex and recondite.","0","deep/concealed/abstruse/arcane/esoteric/hermetic"));
+        arrayList.add(new Contacts(93,"Redolent","having a strong bad odor","The album is a heartfelt cry, redolent of a time before radio and television.","0","odorous/aromatic/scented/evocaticve/suggestive/ambrosial"));
+        arrayList.add(new Contacts(94,"Redress","make amends","Most managers, politicians and bosses are men - how can women redress the balance.","0","avenge/heal/remedy/correct/compensate/suitable"));
+        arrayList.add(new Contacts(95,"Refute","to over throw","to refute a person/theory/argument/claim","0","erroneous/contradict/disaffir/disclaim/disconfirm/negative"));
+        arrayList.add(new Contacts(88,"Relegate","assign to a lower position","She resigned when she was relegated to a desk job.","0","banish/assign/delegate/deport/displace/exile/banish"));
+        arrayList.add(new Contacts(89,"Remiss","falling in what duty requires","You have been remiss in your duties.","0","negligent/careless/lax/lazy/neglectful/neglecting"));
+        arrayList.add(new Contacts(90,"Remote","isolate","remote galaxies","0","islolated/secluded/divergent/aloof/slight/fragile/negligible"));
+        arrayList.add(new Contacts(91,"Remuneration","paying for goods and services","They demanded adequate remuneration for their work.","0","compensation/disbursement/remitment/remittance/giving/payment"));
+        arrayList.add(new Contacts(92,"Repent","to repay","He repented (of his sins) just hours before he died.","0","bemoan/lament/deplore/regret/rue/penitent/creeping"));
+        arrayList.add(new Contacts(93,"Repertoire","the range of skills in a occupation","The Royal Shakespeare Company also have many modern plays in their repertoire.","0","expedient/budget/force/fund/inventory/supply/stock"));
+        arrayList.add(new Contacts(94,"Replenish","fll something back","Food stocks were replenished by/with imports from abroad.","0","replace/perfect/nourish/stock/full/repay"));
+        arrayList.add(new Contacts(95,"Replete","filled to satisfaction","After two helpings of dessert, Sergio was at last replete.","0","full/complete/stout/blubbery/chubby/corpulent/fleshy/gross"));
+
 
         /*
 
