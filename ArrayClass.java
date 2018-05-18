@@ -654,6 +654,32 @@ public class ArrayClass {
         arrayList.add(new Contacts(94,"Plight","condition","Few of us can be unmoved by the plight of the refugees.","0","condition/circumstances/engage/pledge/precarious/situation"));
         arrayList.add(new Contacts(95,"Poignant","feeling of sadness","The photograph awakens poignant memories of happier days.","0","pervasive/pungent/moving/apt/cutting/piercing"));
         
+           arrayList.add(new Contacts(88,"Ponder","to think","She sat back for a minute to ponder her next move in the game.","0","appraise/cogitate/consider/contemplate/dabate/deliberate"));
+        arrayList.add(new Contacts(89,"Potent","energy","Surprise remains the terrorists' most potent weapon.","0","power/powerful/effective/energy/capable/effective"));
+        arrayList.add(new Contacts(90,"Potentate","a ruler who is unconstrained by law"," Valdemar was now, after the king of England, the most powerful potentate in the north of Europe.","0","power/powerful/effective/energy/capable/effective"));
+        arrayList.add(new Contacts(91,"Potpourri","Mixture of different things","a bowl of potpourri","0","mixture/eclectic/medley/agglomerate/botch/clutter"));
+        arrayList.add(new Contacts(92,"Potential","existing in possibility","","0","latent/caliber/potential/strength/resources/possible"));
+        arrayList.add(new Contacts(93,"Pragmatic","practical","In business, the pragmatic approach to problems is often more successful ","0","earthy/down-to-earth/matter-of-fact/realistic/practical/logical"));
+        arrayList.add(new Contacts(94,"Precedent","prototype","There are several precedents for promoting people ","0","preceding/antecedent/anterior/former/foregoing/preceding/previous"));
+        arrayList.add(new Contacts(95,"Precipitate","bring about abruptly","An invasion would certainly precipitate a political crisis.","0","abruptly/pour/storm/rain/aftermath/outcome"));
+
+        arrayList.add(new Contacts(88,"Preclude","exclude","His contract precludes him from discussing his work ","0","impossible/close/prevent/avert/forsetall/head off"));
+        arrayList.add(new Contacts(89,"Precocious","early","A precocious child, she went to university at the age of 15.","0","soon/beforehand/inopportunely/precociously/prematurely/unseasonably"));
+        arrayList.add(new Contacts(90,"Prelude","introductory","The changes are seen as a prelude to wide-ranging reforms.","0","curtain-raiser/overture/preamble/warm-up/prologue/preliminary "));
+        arrayList.add(new Contacts(91,"Premise","statement held to be true","The research project is based on the premise stated earlier.","0","given/hypothetical/assumption/presupposition/supposition/presumption"));
+        arrayList.add(new Contacts(92,"Premonition","omen","He had a premonition that his plane would crash, so he took the train.","0","presentiment/forewarning/foreboding/presage/presentiment/prognostication"));
+        arrayList.add(new Contacts(93,"Prerogative","a right reserved by a person","Alex makes all the big decisions - that's his prerogative as company director.","0","appanage/birthright/right/privileged/sovereignty/birth"));
+        arrayList.add(new Contacts(94,"Prestigious","respected","a prestigious literary award","0","respected/revered/esteemed/estimable/name/respectable"));
+        arrayList.add(new Contacts(88,"Pretext","excuse","The border dispute was used as a pretext for military intervention.","0","apology/justify/reason/justification/cause/motive"));
+        arrayList.add(new Contacts(89,"Prevalent","common","These diseases are more prevalent among young children.","0","powerful/dominant/widespread/conventional/customary/current"));
+        arrayList.add(new Contacts(90,"Prevaricate","lie","He accused the minister of prevaricating.","0","equivocate/lie/untruthful/fabricate/fib/deviate"));
+        arrayList.add(new Contacts(91,"Privation","deprivation","Economic privation is pushing the poor towards crime.","0","deprivation/loss/lack/paucity/suffer/loosen"));
+        arrayList.add(new Contacts(92,"Procrastinate","delay","I know I've got to deal with the problem at some point - I'm just procrastinating.","0","delay/late/put off/slow/afterwards/long"));
+        arrayList.add(new Contacts(93,"Prodigious","great in size and force","She wrote a truly prodigious number of novels.","0","bulk/monstrous/enormous/amazong/astonishing/miraculous"));
+        arrayList.add(new Contacts(94,"Prodigy","Unusually gifted","The 16-year-old tennis prodigy is the youngest player ever to reach the Olympic finals.","0","omen/caution/flash/marvel/miracle/wonder"));
+        arrayList.add(new Contacts(95,"Proffer","present for acceptance","He shook the warmly proffered hand.","0","tender/offer/suggestion/proposal/proposition/suggest"));
+       
+
         /*
 
 * arrayList.add(new Contacts(88,"Candor","","","0",""));
